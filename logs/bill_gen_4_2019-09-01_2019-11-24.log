@@ -1,0 +1,4275 @@
+Member ID : 602
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Non Occupancy Charges":97,"Land Revenue Charges":20,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":30,"Building Maintenace Charges":150,"Electricity Charges":203,"Sinking Fund":4,"Water Charges":200,"Municipal Taxes":162,"sub_total":1261,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1261
+Bill Total Due: 1261
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1261
+0
+New Member Balance : -1261
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 603
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"4 Wheeler Parking Charges":120,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":15,"Building Maintenace Charges":133,"Electricity Charges":203,"Sinking Fund":14,"Water Charges":230,"Municipal Taxes":175,"sub_total":1302,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1302
+Bill Total Due: 1302
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1302
+0
+New Member Balance : -1302
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 604
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Interest":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":11,"Building Maintenace Charges":99,"Electricity Charges":203,"Sinking Fund":6,"Water Charges":210,"Municipal Taxes":75,"sub_total":1071,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1071
+Last Interest Arrears : 0.00
+Current Balance : -1071.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1071
+Current Month Interest: 0
+Soft Total: 2142
+Bill Total Due: 2142
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2142
+0
+New Member Balance : -2142
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 605
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":11,"Building Maintenace Charges":99,"Electricity Charges":203,"Sinking Fund":6,"Water Charges":210,"Municipal Taxes":61,"sub_total":997,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 997
+Last Interest Arrears : 0.00
+Current Balance : -997.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 997
+Current Month Interest: 0
+Soft Total: 1994
+Bill Total Due: 1994
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1994
+0
+New Member Balance : -1994
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 606
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Interest":86,"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":360,"4 Wheeler Parking Charges":120,"Non Occupancy Charges":73,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":111,"sub_total":1707,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 4923
+Last Interest Arrears : 0.00
+Current Balance : -4923.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 4923
+Current Month Interest: 0
+Soft Total: 6630
+Bill Total Due: 6630
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 6630
+0
+New Member Balance : -6630
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 607
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Interest":71,"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":180,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":113,"sub_total":1321,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 4050
+Last Interest Arrears : 0.00
+Current Balance : -4050.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 4050
+Current Month Interest: 0
+Soft Total: 5371
+Bill Total Due: 5371
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 5371
+0
+New Member Balance : -5371
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 608
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":11,"Building Maintenace Charges":108,"Electricity Charges":203,"Sinking Fund":6,"Water Charges":210,"Municipal Taxes":75,"sub_total":1080,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 43.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1080
+Bill Total Due: 1037
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 1037
+0
+New Member Balance : -1037
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 609
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":11,"Building Maintenace Charges":99,"Electricity Charges":203,"Sinking Fund":6,"Water Charges":210,"Municipal Taxes":75,"sub_total":1011,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1011
+Bill Total Due: 1011
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1011
+0
+New Member Balance : -1011
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 610
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":111,"sub_total":1068,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1068
+Bill Total Due: 1068
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1068
+0
+New Member Balance : -1068
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 611
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"2 Wheeler Parking Charges":120,"Election Expenses Collection":0,"Education Fund Collection":10,"Non Occupancy Charges":93,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":119,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":113,"sub_total":1290,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1290
+Bill Total Due: 1290
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1290
+0
+New Member Balance : -1290
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 612
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":11,"Building Maintenace Charges":99,"Electricity Charges":203,"Sinking Fund":6,"Water Charges":210,"Municipal Taxes":75,"sub_total":1011,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1011
+Bill Total Due: 1011
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1011
+0
+New Member Balance : -1011
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 613
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":11,"Building Maintenace Charges":99,"Electricity Charges":203,"Sinking Fund":6,"Water Charges":210,"Municipal Taxes":75,"sub_total":1011,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1011
+Bill Total Due: 1011
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1011
+0
+New Member Balance : -1011
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 614
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":111,"sub_total":1070,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1070
+Last Interest Arrears : 0.00
+Current Balance : -1070.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1070
+Current Month Interest: 0
+Soft Total: 2140
+Bill Total Due: 2140
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2140
+0
+New Member Balance : -2140
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 615
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Interest":80,"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":114,"sub_total":1151,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 4645
+Last Interest Arrears : 0.00
+Current Balance : -4645.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 4645
+Current Month Interest: 0
+Soft Total: 5796
+Bill Total Due: 5796
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 5796
+0
+New Member Balance : -5796
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 616
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":120,"Non Occupancy Charges":91,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":11,"Building Maintenace Charges":99,"Electricity Charges":203,"Sinking Fund":6,"Water Charges":210,"Municipal Taxes":75,"sub_total":1222,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 8473.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1222
+Bill Total Due: -7251
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 7251
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 617
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"4 Wheeler Parking Charges":120,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":99,"Electricity Charges":203,"Sinking Fund":6,"Water Charges":210,"Municipal Taxes":75,"sub_total":1133,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1133
+Bill Total Due: 1133
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1133
+0
+New Member Balance : -1133
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 618
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":180,"4 Wheeler Parking Charges":120,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":111,"sub_total":1370,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 2740
+Last Interest Arrears : 0.00
+Current Balance : -2740.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 2740
+Current Month Interest: 0
+Soft Total: 4110
+Bill Total Due: 4110
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4110
+0
+New Member Balance : -4110
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 619
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":120,"4 Wheeler Parking Charges":240,"Non Occupancy Charges":93,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":120,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":113,"sub_total":1533,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 5616.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1533
+Bill Total Due: -4083
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 4083
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 620
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":11,"Building Maintenace Charges":105,"Electricity Charges":203,"Sinking Fund":6,"Water Charges":210,"Municipal Taxes":75,"sub_total":1017,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1017
+Bill Total Due: 1017
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1017
+0
+New Member Balance : -1017
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 621
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Non Occupancy Charges":93,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":11,"Building Maintenace Charges":117,"Electricity Charges":203,"Sinking Fund":6,"Water Charges":210,"Municipal Taxes":75,"sub_total":1122,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 2544
+Last Interest Arrears : 0.00
+Current Balance : -2544.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 2544
+Current Month Interest: 0
+Soft Total: 3666
+Bill Total Due: 3666
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3666
+0
+New Member Balance : -3666
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 622
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Interest":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":180,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":113,"sub_total":1250,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 2500
+Last Interest Arrears : 0.00
+Current Balance : -2500.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 2500
+Current Month Interest: 0
+Soft Total: 3750
+Bill Total Due: 3750
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3750
+0
+New Member Balance : -3750
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 623
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":117,"Electricity Charges":203,"Sinking Fund":10,"Water Charges":210,"Municipal Taxes":121,"sub_total":1084,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1084
+Bill Total Due: 1084
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1084
+0
+New Member Balance : -1084
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 624
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":180,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":117,"Electricity Charges":203,"Sinking Fund":10,"Water Charges":210,"Municipal Taxes":121,"sub_total":1264,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 6620
+Last Interest Arrears : 0.00
+Current Balance : -6620.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 6620
+Current Month Interest: 0
+Soft Total: 7884
+Bill Total Due: 7884
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 7884
+0
+New Member Balance : -7884
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 625
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"4 Wheeler Parking Charges":120,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":113,"sub_total":1190,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1190
+Bill Total Due: 1190
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1190
+0
+New Member Balance : -1190
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 626
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":117,"Electricity Charges":203,"Sinking Fund":10,"Water Charges":210,"Municipal Taxes":121,"sub_total":1144,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1144
+Bill Total Due: 1144
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1144
+0
+New Member Balance : -1144
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 627
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":180,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":117,"Electricity Charges":203,"Sinking Fund":10,"Water Charges":210,"Municipal Taxes":121,"sub_total":1264,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1264
+Bill Total Due: 1264
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1264
+0
+New Member Balance : -1264
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 628
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Interest":0,"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":113,"sub_total":1070,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1070
+Last Interest Arrears : 0.00
+Current Balance : -1070.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1070
+Current Month Interest: 0
+Soft Total: 2140
+Bill Total Due: 2140
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2140
+0
+New Member Balance : -2140
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 629
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":117,"Electricity Charges":203,"Sinking Fund":10,"Water Charges":210,"Municipal Taxes":121,"sub_total":1084,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1084
+Last Interest Arrears : 0.00
+Current Balance : -1084.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1084
+Current Month Interest: 0
+Soft Total: 2168
+Bill Total Due: 2168
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2168
+0
+New Member Balance : -2168
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 630
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Interest":0,"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":24,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":15,"Building Maintenace Charges":130,"Electricity Charges":203,"Sinking Fund":13,"Water Charges":230,"Municipal Taxes":158,"sub_total":1168,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1168
+Bill Total Due: 1168
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1168
+0
+New Member Balance : -1168
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 631
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":113,"sub_total":1130,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1130
+Bill Total Due: 1130
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1130
+0
+New Member Balance : -1130
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 632
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":117,"Electricity Charges":203,"Sinking Fund":10,"Water Charges":210,"Municipal Taxes":121,"sub_total":1084,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1084
+Bill Total Due: 1084
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1084
+0
+New Member Balance : -1084
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 633
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":129,"Electricity Charges":203,"Sinking Fund":13,"Water Charges":210,"Municipal Taxes":121,"sub_total":1101,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 4338.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1101
+Bill Total Due: -3237
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 3237
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 634
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Interest":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":120,"4 Wheeler Parking Charges":240,"Non Occupancy Charges":92,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":113,"sub_total":1522,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1279
+Last Interest Arrears : 0.00
+Current Balance : -1279.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1279
+Current Month Interest: 0
+Soft Total: 2801
+Bill Total Due: 2801
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2801
+0
+New Member Balance : -2801
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 635
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":117,"Electricity Charges":203,"Sinking Fund":10,"Water Charges":210,"Municipal Taxes":121,"sub_total":1144,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 2288
+Last Interest Arrears : 0.00
+Current Balance : -2288.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 2288
+Current Month Interest: 0
+Soft Total: 3432
+Bill Total Due: 3432
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3432
+0
+New Member Balance : -3432
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 636
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Interest":144,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"4 Wheeler Parking Charges":120,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":117,"Electricity Charges":203,"Sinking Fund":10,"Water Charges":210,"Municipal Taxes":121,"sub_total":1408,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 8520
+Last Interest Arrears : 0.00
+Current Balance : -8520.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 8520
+Current Month Interest: 0
+Soft Total: 9928
+Bill Total Due: 9928
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 9928
+0
+New Member Balance : -9928
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 637
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":117,"Electricity Charges":203,"Sinking Fund":10,"Water Charges":210,"Municipal Taxes":121,"sub_total":1144,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1144
+Bill Total Due: 1144
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1144
+0
+New Member Balance : -1144
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 638
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Interest":0,"Education Fund Collection":10,"4 Wheeler Parking Charges":120,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":113,"sub_total":1190,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1190
+Last Interest Arrears : 0.00
+Current Balance : -1190.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1190
+Current Month Interest: 0
+Soft Total: 2380
+Bill Total Due: 2380
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2380
+0
+New Member Balance : -2380
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 639
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Interest":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":11,"Building Maintenace Charges":99,"Electricity Charges":203,"Sinking Fund":6,"Water Charges":210,"Municipal Taxes":75,"sub_total":1071,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1071
+Last Interest Arrears : 0.00
+Current Balance : -1071.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1071
+Current Month Interest: 0
+Soft Total: 2142
+Bill Total Due: 2142
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2142
+0
+New Member Balance : -2142
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 640
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Interest":272,"Education Fund Collection":10,"2 Wheeler Parking Charges":300,"4 Wheeler Parking Charges":120,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":117,"Electricity Charges":203,"Sinking Fund":10,"Water Charges":210,"Municipal Taxes":121,"sub_total":1776,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 16665
+Last Interest Arrears : 0.00
+Current Balance : -16665.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 16665
+Current Month Interest: 0
+Soft Total: 18441
+Bill Total Due: 18441
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 18441
+0
+New Member Balance : -18441
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 641
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":113,"sub_total":1070,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 1070.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1070
+Bill Total Due: -0
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 0
+0
+New Member Balance : 0
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 642
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":11,"Building Maintenace Charges":99,"Electricity Charges":203,"Sinking Fund":6,"Water Charges":210,"Municipal Taxes":75,"sub_total":1011,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1011
+Bill Total Due: 1011
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1011
+0
+New Member Balance : -1011
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 643
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"4 Wheeler Parking Charges":500,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":11,"Building Maintenace Charges":103,"Electricity Charges":203,"Sinking Fund":7,"Water Charges":210,"Municipal Taxes":85,"sub_total":1586,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1586
+Last Interest Arrears : 0.00
+Current Balance : -1586.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1586
+Current Month Interest: 0
+Soft Total: 3172
+Bill Total Due: 3172
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3172
+0
+New Member Balance : -3172
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 644
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":118,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":113,"sub_total":1076,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1076
+Bill Total Due: 1076
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1076
+0
+New Member Balance : -1076
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 645
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":11,"Building Maintenace Charges":99,"Electricity Charges":203,"Sinking Fund":6,"Water Charges":210,"Municipal Taxes":75,"sub_total":1011,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1011
+Bill Total Due: 1011
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1011
+0
+New Member Balance : -1011
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 646
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"4 Wheeler Parking Charges":120,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":11,"Building Maintenace Charges":103,"Electricity Charges":203,"Sinking Fund":7,"Water Charges":210,"Municipal Taxes":85,"sub_total":1206,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1206
+Last Interest Arrears : 0.00
+Current Balance : -1206.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1206
+Current Month Interest: 0
+Soft Total: 2412
+Bill Total Due: 2412
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2412
+0
+New Member Balance : -2412
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 647
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":113,"sub_total":1070,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1070
+Bill Total Due: 1070
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1070
+0
+New Member Balance : -1070
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 648
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"4 Wheeler Parking Charges":120,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":11,"Building Maintenace Charges":99,"Electricity Charges":203,"Sinking Fund":6,"Water Charges":210,"Municipal Taxes":75,"sub_total":1191,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1191
+Bill Total Due: 1191
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1191
+0
+New Member Balance : -1191
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 649
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":117,"Electricity Charges":203,"Sinking Fund":10,"Water Charges":210,"Municipal Taxes":121,"sub_total":1144,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 2712.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1144
+Bill Total Due: -1568
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 1568
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 650
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Interest":0,"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":360,"Non Occupancy Charges":92,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":113,"sub_total":1522,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1522
+Bill Total Due: 1522
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1522
+0
+New Member Balance : -1522
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 651
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Interest":130,"Election Expenses Collection":0,"2 Wheeler Parking Charges":120,"Education Fund Collection":10,"Non Occupancy Charges":91,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":11,"Building Maintenace Charges":105,"Electricity Charges":203,"Sinking Fund":6,"Water Charges":210,"Municipal Taxes":75,"sub_total":1358,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 7682
+Last Interest Arrears : 0.00
+Current Balance : -7682.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 7682
+Current Month Interest: 0
+Soft Total: 9040
+Bill Total Due: 9040
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 9040
+0
+New Member Balance : -9040
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 652
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":11,"Building Maintenace Charges":99,"Electricity Charges":203,"Sinking Fund":6,"Water Charges":210,"Municipal Taxes":76,"sub_total":1012,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1012
+Bill Total Due: 1012
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1012
+0
+New Member Balance : -1012
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 653
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":180,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":118,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":104,"sub_total":1247,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 8729.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1247
+Bill Total Due: -7482
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 7482
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 654
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":120,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":131,"sub_total":1118,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1118
+Bill Total Due: 1118
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1118
+0
+New Member Balance : -1118
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 655
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Unauthorised Construction":12,"2 Wheeler Parking Charges":300,"4 Wheeler Parking Charges":120,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":113,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":111,"sub_total":1501,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1501
+Bill Total Due: 1501
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1501
+0
+New Member Balance : -1501
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 656
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Interest":88,"Election Expenses Collection":0,"2 Wheeler Parking Charges":0,"Education Fund Collection":10,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":11,"Building Maintenace Charges":99,"Electricity Charges":203,"Sinking Fund":6,"Water Charges":210,"Municipal Taxes":75,"sub_total":1099,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 5094
+Last Interest Arrears : 0.00
+Current Balance : -5094.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 5094
+Current Month Interest: 0
+Soft Total: 6193
+Bill Total Due: 6193
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 6193
+0
+New Member Balance : -6193
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 657
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":120,"4 Wheeler Parking Charges":240,"Non Occupancy Charges":93,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":118,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":110,"sub_total":1526,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 5958.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1526
+Bill Total Due: -4432
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 4432
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 658
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"4 Wheeler Parking Charges":120,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":120,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":131,"sub_total":1238,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1238
+Bill Total Due: 1238
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1238
+0
+New Member Balance : -1238
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 659
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":111,"sub_total":1068,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1068
+Bill Total Due: 1068
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1068
+0
+New Member Balance : -1068
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 660
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":11,"Building Maintenace Charges":99,"Electricity Charges":203,"Sinking Fund":6,"Water Charges":210,"Municipal Taxes":75,"sub_total":1011,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1011
+Bill Total Due: 1011
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1011
+0
+New Member Balance : -1011
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 661
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":180,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":110,"sub_total":1249,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1249
+Bill Total Due: 1249
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1249
+0
+New Member Balance : -1249
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 662
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"4 Wheeler Parking Charges":120,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":120,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":131,"sub_total":1298,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1298
+Last Interest Arrears : 0.00
+Current Balance : -1298.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1298
+Current Month Interest: 0
+Soft Total: 2596
+Bill Total Due: 2596
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2596
+0
+New Member Balance : -2596
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 663
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"4 Wheeler Parking Charges":120,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":111,"sub_total":1188,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1188
+Bill Total Due: 1188
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1188
+0
+New Member Balance : -1188
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 664
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Interest":0,"Election Expenses Collection":0,"Education Fund Collection":10,"Non Occupancy Charges":91,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":11,"Building Maintenace Charges":99,"Electricity Charges":203,"Sinking Fund":6,"Water Charges":210,"Municipal Taxes":75,"sub_total":1102,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 4401.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1102
+Bill Total Due: -3299
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 3299
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 665
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":110,"sub_total":1127,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1127
+Bill Total Due: 1127
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1127
+0
+New Member Balance : -1127
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 666
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"2 Wheeler Parking Charges":120,"Non Occupancy Charges":96,"Education Fund Collection":10,"Courier Charges":35,"Land Revenue Charges":15,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":130,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":131,"sub_total":1379,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 515.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1379
+Bill Total Due: 864
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 864
+0
+New Member Balance : -864
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 667
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"4 Wheeler Parking Charges":120,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":111,"sub_total":1248,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1248
+Last Interest Arrears : 0.00
+Current Balance : -1248.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1248
+Current Month Interest: 0
+Soft Total: 2496
+Bill Total Due: 2496
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2496
+0
+New Member Balance : -2496
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 668
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"4 Wheeler Parking Charges":120,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":11,"Building Maintenace Charges":99,"Electricity Charges":203,"Sinking Fund":6,"Water Charges":210,"Municipal Taxes":75,"sub_total":1191,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1191
+Last Interest Arrears : 0.00
+Current Balance : -1191.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1191
+Current Month Interest: 0
+Soft Total: 2382
+Bill Total Due: 2382
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2382
+0
+New Member Balance : -2382
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 669
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Interest":191,"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":360,"4 Wheeler Parking Charges":240,"Non Occupancy Charges":93,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":118,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":110,"sub_total":1957,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 11278
+Last Interest Arrears : 0.00
+Current Balance : -11278.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 11278
+Current Month Interest: 0
+Soft Total: 13235
+Bill Total Due: 13235
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 13235
+0
+New Member Balance : -13235
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 670
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":120,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":131,"sub_total":1118,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 300
+Last Interest Arrears : 0.00
+Current Balance : -300.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 300
+Current Month Interest: 0
+Soft Total: 1418
+Bill Total Due: 1418
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1418
+0
+New Member Balance : -1418
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 671
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":180,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":111,"sub_total":1248,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1248
+Bill Total Due: 1248
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1248
+0
+New Member Balance : -1248
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 672
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":113,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":106,"sub_total":1124,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 120.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1124
+Bill Total Due: 1004
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 1004
+0
+New Member Balance : -1004
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 673
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":180,"4 Wheeler Parking Charges":500,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":121,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":131,"sub_total":1801,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1801
+Last Interest Arrears : 0.00
+Current Balance : -1801.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1801
+Current Month Interest: 0
+Soft Total: 3602
+Bill Total Due: 3602
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3602
+0
+New Member Balance : -3602
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 674
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Interest":290,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"4 Wheeler Parking Charges":120,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":113,"sub_total":1540,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 17655
+Last Interest Arrears : 547
+Current Balance : -18202.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 17655
+Current Month Interest: 0
+Soft Total: 19742
+Bill Total Due: 19742
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 19195
+0
+New Member Balance : -19742
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 675
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":113,"sub_total":1070,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 2140
+Last Interest Arrears : 0.00
+Current Balance : -2140.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 2140
+Current Month Interest: 0
+Soft Total: 3210
+Bill Total Due: 3210
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3210
+0
+New Member Balance : -3210
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 676
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"4 Wheeler Parking Charges":120,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":121,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":131,"sub_total":1241,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1241
+Bill Total Due: 1241
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1241
+0
+New Member Balance : -1241
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 677
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"4 Wheeler Parking Charges":120,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":113,"sub_total":1250,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1250
+Last Interest Arrears : 0.00
+Current Balance : -1250.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1250
+Current Month Interest: 0
+Soft Total: 2500
+Bill Total Due: 2500
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2500
+0
+New Member Balance : -2500
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 678
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":113,"sub_total":1070,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 2140
+Last Interest Arrears : 0.00
+Current Balance : -2140.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 2140
+Current Month Interest: 0
+Soft Total: 3210
+Bill Total Due: 3210
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3210
+0
+New Member Balance : -3210
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 679
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"4 Wheeler Parking Charges":120,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":121,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":131,"sub_total":1241,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1241
+Bill Total Due: 1241
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1241
+0
+New Member Balance : -1241
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 680
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Interest":0,"Election Expenses Collection":0,"Non Occupancy Charges":96,"Education Fund Collection":10,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":121,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":131,"sub_total":1217,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1409
+Last Interest Arrears : 0.00
+Current Balance : -1409.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1409
+Current Month Interest: 0
+Soft Total: 2626
+Bill Total Due: 2626
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2626
+0
+New Member Balance : -2626
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 681
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Interest":0,"Election Expenses Collection":0,"Education Fund Collection":10,"Non Occupancy Charges":92,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":113,"sub_total":1162,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1162
+Last Interest Arrears : 0.00
+Current Balance : -1162.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1162
+Current Month Interest: 0
+Soft Total: 2324
+Bill Total Due: 2324
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2324
+0
+New Member Balance : -2324
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 682
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":113,"sub_total":1130,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 660.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1130
+Bill Total Due: 470
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 470
+0
+New Member Balance : -470
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 683
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":121,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":131,"sub_total":1121,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 3363.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1121
+Bill Total Due: -2242
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 2242
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 684
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":180,"4 Wheeler Parking Charges":120,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":121,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":131,"sub_total":1421,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1421
+Bill Total Due: 1421
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1421
+0
+New Member Balance : -1421
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 685
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":120,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":113,"sub_total":1190,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 3810.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1190
+Bill Total Due: -2620
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 2620
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 686
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":113,"sub_total":1070,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 2150
+Last Interest Arrears : 0.00
+Current Balance : -2150.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 2150
+Current Month Interest: 0
+Soft Total: 3220
+Bill Total Due: 3220
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3220
+0
+New Member Balance : -3220
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 687
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"4 Wheeler Parking Charges":120,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":121,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":131,"sub_total":1241,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1241
+Last Interest Arrears : 0.00
+Current Balance : -1241.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1241
+Current Month Interest: 0
+Soft Total: 2482
+Bill Total Due: 2482
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2482
+0
+New Member Balance : -2482
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 688
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"4 Wheeler Parking Charges":120,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":121,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":131,"sub_total":1241,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1241
+Bill Total Due: 1241
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1241
+0
+New Member Balance : -1241
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 689
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":120,"Non Occupancy Charges":93,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":118,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":113,"sub_total":1289,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1289
+Last Interest Arrears : 0.00
+Current Balance : -1289.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1289
+Current Month Interest: 0
+Soft Total: 2578
+Bill Total Due: 2578
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2578
+0
+New Member Balance : -2578
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 690
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Interest":61,"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":113,"sub_total":1131,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 3510
+Last Interest Arrears : 0.00
+Current Balance : -3510.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 3510
+Current Month Interest: 0
+Soft Total: 4641
+Bill Total Due: 4641
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4641
+0
+New Member Balance : -4641
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 691
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Interest":80,"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":180,"4 Wheeler Parking Charges":120,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":121,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":131,"sub_total":1501,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 4563
+Last Interest Arrears : 0.00
+Current Balance : -4563.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 4563
+Current Month Interest: 0
+Soft Total: 6064
+Bill Total Due: 6064
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 6064
+0
+New Member Balance : -6064
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 692
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":180,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":11,"Building Maintenace Charges":99,"Electricity Charges":203,"Sinking Fund":6,"Water Charges":210,"Municipal Taxes":69,"sub_total":1185,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 1185.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1185
+Bill Total Due: -0
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 0
+0
+New Member Balance : 0
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 693
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":109,"sub_total":1066,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1066
+Last Interest Arrears : 0.00
+Current Balance : -1066.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1066
+Current Month Interest: 0
+Soft Total: 2132
+Bill Total Due: 2132
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2132
+0
+New Member Balance : -2132
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 694
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":120,"Non Occupancy Charges":93,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":121,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":109,"sub_total":1288,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 2007.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1288
+Bill Total Due: -719
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 719
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 695
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"4 Wheeler Parking Charges":120,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":109,"sub_total":1246,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 519.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1246
+Bill Total Due: 727
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 727
+0
+New Member Balance : -727
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 696
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"4 Wheeler Parking Charges":120,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":109,"sub_total":1246,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1246
+Bill Total Due: 1246
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1246
+0
+New Member Balance : -1246
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 697
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":18,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":109,"sub_total":1069,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1069
+Bill Total Due: 1069
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1069
+0
+New Member Balance : -1069
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 698
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Non Occupancy Charges":93,"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":120,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":109,"sub_total":1279,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1279
+Last Interest Arrears : 0.00
+Current Balance : -1279.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1279
+Current Month Interest: 0
+Soft Total: 2558
+Bill Total Due: 2558
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2558
+0
+New Member Balance : -2558
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 699
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Interest":84,"Education Fund Collection":10,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":109,"sub_total":1150,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 6095
+Last Interest Arrears : 0.00
+Current Balance : -6095.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 6095
+Current Month Interest: 0
+Soft Total: 7245
+Bill Total Due: 7245
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 7245
+0
+New Member Balance : -7245
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 700
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Non Occupancy Charges":94,"Education Fund Collection":10,"2 Wheeler Parking Charges":360,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":118,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":109,"sub_total":1526,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 2744
+Last Interest Arrears : 0.00
+Current Balance : -2744.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 2744
+Current Month Interest: 0
+Soft Total: 4270
+Bill Total Due: 4270
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4270
+0
+New Member Balance : -4270
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 701
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Interest":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":120,"4 Wheeler Parking Charges":240,"Non Occupancy Charges":93,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":120,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":109,"sub_total":1527,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 1119.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1527
+Bill Total Due: 408
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 408
+0
+New Member Balance : -408
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 702
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Interest":102,"Election Expenses Collection":0,"4 Wheeler Parking Charges":240,"Education Fund Collection":10,"2 Wheeler Parking Charges":120,"Non Occupancy Charges":93,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":115,"Electricity Charges":203,"Sinking Fund":8,"Water Charges":210,"Municipal Taxes":90,"sub_total":1604,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 5832
+Last Interest Arrears : 0.00
+Current Balance : -5832.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 5832
+Current Month Interest: 0
+Soft Total: 7436
+Bill Total Due: 7436
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 7436
+0
+New Member Balance : -7436
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 703
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":180,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":11,"Building Maintenace Charges":103,"Electricity Charges":203,"Sinking Fund":7,"Water Charges":210,"Municipal Taxes":79,"sub_total":1200,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1200
+Bill Total Due: 1200
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1200
+0
+New Member Balance : -1200
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 704
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Unauthorised Construction":12,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":11,"Building Maintenace Charges":104,"Electricity Charges":203,"Sinking Fund":7,"Water Charges":210,"Municipal Taxes":79,"sub_total":1033,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 9571.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1033
+Bill Total Due: -8538
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 8538
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 705
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Unauthorised Construction":12,"2 Wheeler Parking Charges":180,"4 Wheeler Parking Charges":360,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":122,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":131,"sub_total":1672,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1672
+Bill Total Due: 1672
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1672
+0
+New Member Balance : -1672
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 706
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"2 Wheeler Parking Charges":180,"4 Wheeler Parking Charges":120,"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":120,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":131,"sub_total":1418,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1418
+Bill Total Due: 1418
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1418
+0
+New Member Balance : -1418
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 707
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"4 Wheeler Parking Charges":500,"Land Revenue Charges":13,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":104,"Electricity Charges":203,"Sinking Fund":7,"Water Charges":210,"Municipal Taxes":79,"sub_total":1584,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1584
+Bill Total Due: 1584
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1584
+0
+New Member Balance : -1584
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 708
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Courier Charges":40,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":103,"Electricity Charges":203,"Sinking Fund":7,"Water Charges":210,"Municipal Taxes":79,"sub_total":1062,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 5
+Last Interest Arrears : 0.00
+Current Balance : -5.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 5
+Current Month Interest: 0
+Soft Total: 1067
+Bill Total Due: 1067
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1067
+0
+New Member Balance : -1067
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 709
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Interest":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":360,"Non Occupancy Charges":96,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":126,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":131,"sub_total":1580,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 840
+Last Interest Arrears : 0.00
+Current Balance : -840.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 840
+Current Month Interest: 0
+Soft Total: 2420
+Bill Total Due: 2420
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2420
+0
+New Member Balance : -2420
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 710
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":120,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":131,"sub_total":1118,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1118
+Bill Total Due: 1118
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1118
+0
+New Member Balance : -1118
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 711
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":103,"Electricity Charges":203,"Sinking Fund":7,"Water Charges":210,"Municipal Taxes":79,"sub_total":1022,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1022
+Last Interest Arrears : 0.00
+Current Balance : -1022.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1022
+Current Month Interest: 0
+Soft Total: 2044
+Bill Total Due: 2044
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2044
+0
+New Member Balance : -2044
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 712
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":104,"Electricity Charges":203,"Sinking Fund":7,"Water Charges":210,"Municipal Taxes":79,"sub_total":1023,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1023
+Bill Total Due: 1023
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1023
+0
+New Member Balance : -1023
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 713
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":120,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":131,"sub_total":1118,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1118
+Last Interest Arrears : 0.00
+Current Balance : -1118.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1118
+Current Month Interest: 0
+Soft Total: 2236
+Bill Total Due: 2236
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2236
+0
+New Member Balance : -2236
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 714
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"4 Wheeler Parking Charges":120,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":120,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":131,"sub_total":1298,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1298
+Bill Total Due: 1298
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1298
+0
+New Member Balance : -1298
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 715
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Non Occupancy Charges":91,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":103,"Electricity Charges":203,"Sinking Fund":7,"Water Charges":210,"Municipal Taxes":79,"sub_total":1113,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 7791.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1113
+Bill Total Due: -6678
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 6678
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 716
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":103,"Electricity Charges":203,"Sinking Fund":7,"Water Charges":210,"Municipal Taxes":79,"sub_total":1022,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1022
+Bill Total Due: 1022
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1022
+0
+New Member Balance : -1022
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 717
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"4 Wheeler Parking Charges":0,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":120,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":131,"sub_total":1118,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1118
+Bill Total Due: 1118
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1118
+0
+New Member Balance : -1118
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 718
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":126,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":131,"sub_total":1124,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 1080.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1124
+Bill Total Due: 44
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 44
+0
+New Member Balance : -44
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 719
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Interest":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":104,"Electricity Charges":203,"Sinking Fund":7,"Water Charges":210,"Municipal Taxes":79,"sub_total":1083,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 4389.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1083
+Bill Total Due: -3306
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 3306
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 720
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Interest":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":103,"Electricity Charges":203,"Sinking Fund":7,"Water Charges":210,"Municipal Taxes":79,"sub_total":1082,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 4903.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1082
+Bill Total Due: -3821
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 3821
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 721
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"4 Wheeler Parking Charges":120,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":120,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":131,"sub_total":1238,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1538
+Last Interest Arrears : 0.00
+Current Balance : -1538.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1538
+Current Month Interest: 0
+Soft Total: 2776
+Bill Total Due: 2776
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2776
+0
+New Member Balance : -2776
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 722
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":0,"Non Occupancy Charges":0,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":15,"Building Maintenace Charges":122,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":133,"sub_total":1126,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1126
+Bill Total Due: 1126
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1126
+0
+New Member Balance : -1126
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 723
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"4 Wheeler Parking Charges":120,"Education Fund Collection":10,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":116,"Electricity Charges":203,"Sinking Fund":10,"Water Charges":210,"Municipal Taxes":120,"sub_total":1202,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 813.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1202
+Bill Total Due: 389
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 389
+0
+New Member Balance : -389
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 724
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"4 Wheeler Parking Charges":120,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":116,"Electricity Charges":203,"Sinking Fund":10,"Water Charges":210,"Municipal Taxes":120,"sub_total":1262,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 8834.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1262
+Bill Total Due: -7572
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 7572
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 725
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":15,"Building Maintenace Charges":121,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":133,"sub_total":1125,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1425
+Last Interest Arrears : 0.00
+Current Balance : -1425.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1425
+Current Month Interest: 0
+Soft Total: 2550
+Bill Total Due: 2550
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2550
+0
+New Member Balance : -2550
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 726
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":15,"Building Maintenace Charges":121,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":133,"sub_total":1125,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 417
+Last Interest Arrears : 0.00
+Current Balance : -417.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 417
+Current Month Interest: 0
+Soft Total: 1542
+Bill Total Due: 1542
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1542
+0
+New Member Balance : -1542
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 727
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"4 Wheeler Parking Charges":0,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":116,"Electricity Charges":203,"Sinking Fund":10,"Water Charges":210,"Municipal Taxes":120,"sub_total":1082,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1082
+Last Interest Arrears : 0.00
+Current Balance : -1082.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1082
+Current Month Interest: 0
+Soft Total: 2164
+Bill Total Due: 2164
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2164
+0
+New Member Balance : -2164
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 728
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Interest":0,"Election Expenses Collection":0,"4 Wheeler Parking Charges":0,"Education Fund Collection":10,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":116,"Electricity Charges":203,"Sinking Fund":10,"Water Charges":210,"Municipal Taxes":120,"sub_total":1082,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 120
+Last Interest Arrears : 0.00
+Current Balance : -120.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 120
+Current Month Interest: 0
+Soft Total: 1202
+Bill Total Due: 1202
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1202
+0
+New Member Balance : -1202
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 729
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"4 Wheeler Parking Charges":120,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":121,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":133,"sub_total":1303,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1303
+Last Interest Arrears : 0.00
+Current Balance : -1303.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1303
+Current Month Interest: 0
+Soft Total: 2606
+Bill Total Due: 2606
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2606
+0
+New Member Balance : -2606
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 730
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"4 Wheeler Parking Charges":360,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":15,"Building Maintenace Charges":121,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":133,"sub_total":1545,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1545
+Bill Total Due: 1545
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1545
+0
+New Member Balance : -1545
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 731
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Education Fund Collection":10,"2 Wheeler Parking Charges":120,"4 Wheeler Parking Charges":240,"Non Occupancy Charges":93,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":116,"Electricity Charges":203,"Sinking Fund":10,"Water Charges":210,"Municipal Taxes":120,"sub_total":1535,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1535
+Bill Total Due: 1535
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1535
+0
+New Member Balance : -1535
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 732
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"2 Wheeler Parking Charges":360,"Non Occupancy Charges":93,"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":120,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":210,"Municipal Taxes":120,"sub_total":1540,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1540
+Last Interest Arrears : 0.00
+Current Balance : -1540.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1540
+Current Month Interest: 0
+Soft Total: 3080
+Bill Total Due: 3080
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3080
+0
+New Member Balance : -3080
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 733
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":15,"Building Maintenace Charges":121,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":133,"sub_total":1125,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 4837
+Last Interest Arrears : 0.00
+Current Balance : -4837.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 4837
+Current Month Interest: 0
+Soft Total: 5962
+Bill Total Due: 5962
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 5962
+0
+New Member Balance : -5962
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 734
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Other Charges":0,"Interest":206,"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":240,"4 Wheeler Parking Charges":240,"Non Occupancy Charges":96,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":15,"Building Maintenace Charges":127,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":133,"sub_total":1913,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 12164
+Last Interest Arrears : 0.00
+Current Balance : -12164.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 12164
+Current Month Interest: 0
+Soft Total: 14077
+Bill Total Due: 14077
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 14077
+0
+New Member Balance : -14077
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 735
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"4 Wheeler Parking Charges":1000,"Education Fund Collection":10,"2 Wheeler Parking Charges":120,"Non Occupancy Charges":93,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":119,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":210,"Municipal Taxes":120,"sub_total":2299,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 2299
+Bill Total Due: 2299
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2299
+0
+New Member Balance : -2299
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 736
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Interest":0,"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"4 Wheeler Parking Charges":120,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":116,"Electricity Charges":203,"Sinking Fund":10,"Water Charges":210,"Municipal Taxes":120,"sub_total":1262,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1262
+Last Interest Arrears : 0.00
+Current Balance : -1262.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1262
+Current Month Interest: 0
+Soft Total: 2524
+Bill Total Due: 2524
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2524
+0
+New Member Balance : -2524
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 737
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":360,"4 Wheeler Parking Charges":240,"Non Occupancy Charges":96,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":15,"Building Maintenace Charges":121,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":133,"sub_total":1821,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1821
+Bill Total Due: 1821
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1821
+0
+New Member Balance : -1821
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 738
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":180,"4 Wheeler Parking Charges":120,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":112,"Electricity Charges":203,"Sinking Fund":9,"Water Charges":210,"Municipal Taxes":105,"sub_total":1362,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 120
+Last Interest Arrears : 0.00
+Current Balance : -120.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 120
+Current Month Interest: 0
+Soft Total: 1482
+Bill Total Due: 1482
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1482
+0
+New Member Balance : -1482
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 739
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"4 Wheeler Parking Charges":120,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":15,"Building Maintenace Charges":121,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":133,"sub_total":1245,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1245
+Last Interest Arrears : 0.00
+Current Balance : -1245.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1245
+Current Month Interest: 0
+Soft Total: 2490
+Bill Total Due: 2490
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2490
+0
+New Member Balance : -2490
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 740
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Cheque Return Charges":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"4 Wheeler Parking Charges":120,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":15,"Building Maintenace Charges":125,"Electricity Charges":203,"Sinking Fund":10,"Water Charges":210,"Municipal Taxes":120,"sub_total":1275,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1275
+Bill Total Due: 1275
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1275
+0
+New Member Balance : -1275
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 741
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"4 Wheeler Parking Charges":120,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":116,"Electricity Charges":203,"Sinking Fund":10,"Water Charges":210,"Municipal Taxes":120,"sub_total":1262,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 2524
+Last Interest Arrears : 0.00
+Current Balance : -2524.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 2524
+Current Month Interest: 0
+Soft Total: 3786
+Bill Total Due: 3786
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3786
+0
+New Member Balance : -3786
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 742
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":180,"4 Wheeler Parking Charges":120,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":15,"Building Maintenace Charges":121,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":133,"sub_total":1425,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1425
+Last Interest Arrears : 0.00
+Current Balance : -1425.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1425
+Current Month Interest: 0
+Soft Total: 2850
+Bill Total Due: 2850
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2850
+0
+New Member Balance : -2850
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 743
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":120,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":15,"Building Maintenace Charges":121,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":133,"sub_total":1245,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1245
+Bill Total Due: 1245
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1245
+0
+New Member Balance : -1245
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 744
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":360,"4 Wheeler Parking Charges":120,"Non Occupancy Charges":93,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":116,"Electricity Charges":203,"Sinking Fund":10,"Water Charges":210,"Municipal Taxes":120,"sub_total":1655,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 4880.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1655
+Bill Total Due: -3225
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 3225
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 745
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":180,"4 Wheeler Parking Charges":120,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":116,"Electricity Charges":203,"Sinking Fund":10,"Water Charges":210,"Municipal Taxes":120,"sub_total":1382,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1382
+Bill Total Due: 1382
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1382
+0
+New Member Balance : -1382
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 746
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"4 Wheeler Parking Charges":360,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":15,"Building Maintenace Charges":121,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":133,"sub_total":1545,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1545
+Last Interest Arrears : 0.00
+Current Balance : -1545.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1545
+Current Month Interest: 0
+Soft Total: 3090
+Bill Total Due: 3090
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3090
+0
+New Member Balance : -3090
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 747
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":17,"Building Maintenace Charges":121,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":133,"sub_total":1127,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 2254
+Last Interest Arrears : 0.00
+Current Balance : -2254.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 2254
+Current Month Interest: 0
+Soft Total: 3381
+Bill Total Due: 3381
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3381
+0
+New Member Balance : -3381
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 748
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"4 Wheeler Parking Charges":360,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":116,"Electricity Charges":203,"Sinking Fund":10,"Water Charges":210,"Municipal Taxes":120,"sub_total":1442,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1442
+Bill Total Due: 1442
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1442
+0
+New Member Balance : -1442
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 749
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"4 Wheeler Parking Charges":120,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":116,"Electricity Charges":203,"Sinking Fund":10,"Water Charges":210,"Municipal Taxes":120,"sub_total":1202,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1202
+Bill Total Due: 1202
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1202
+0
+New Member Balance : -1202
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 750
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":180,"4 Wheeler Parking Charges":120,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":15,"Building Maintenace Charges":121,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":133,"sub_total":1425,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1425
+Bill Total Due: 1425
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1425
+0
+New Member Balance : -1425
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 751
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":15,"Building Maintenace Charges":121,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":133,"sub_total":1125,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1125
+Last Interest Arrears : 0.00
+Current Balance : -1125.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1125
+Current Month Interest: 0
+Soft Total: 2250
+Bill Total Due: 2250
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2250
+0
+New Member Balance : -2250
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 752
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"2 Wheeler Parking Charges":120,"Non Occupancy Charges":93,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":116,"Electricity Charges":203,"Sinking Fund":10,"Water Charges":210,"Municipal Taxes":120,"sub_total":1295,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 2590.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1295
+Bill Total Due: -1295
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 1295
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 753
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Interest":375,"Education Fund Collection":10,"2 Wheeler Parking Charges":60,"4 Wheeler Parking Charges":120,"Land Revenue Charges":15,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":116,"Electricity Charges":203,"Sinking Fund":10,"Water Charges":210,"Municipal Taxes":120,"sub_total":1637,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 23693
+Last Interest Arrears : 0.00
+Current Balance : -23693.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 23693
+Current Month Interest: 0
+Soft Total: 25330
+Bill Total Due: 25330
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 25330
+0
+New Member Balance : -25330
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 754
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":17,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":15,"Building Maintenace Charges":121,"Electricity Charges":203,"Sinking Fund":11,"Water Charges":230,"Municipal Taxes":133,"sub_total":1125,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 2250
+Last Interest Arrears : 0.00
+Current Balance : -2250.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 2250
+Current Month Interest: 0
+Soft Total: 3375
+Bill Total Due: 3375
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3375
+0
+New Member Balance : -3375
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 755
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":20,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":30,"Building Maintenace Charges":104,"Electricity Charges":203,"Sinking Fund":5,"Water Charges":200,"Municipal Taxes":165,"sub_total":1122,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1122
+Bill Total Due: 1122
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1122
+0
+New Member Balance : -1122
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 756
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":20,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":30,"Building Maintenace Charges":94,"Electricity Charges":203,"Sinking Fund":3,"Water Charges":200,"Municipal Taxes":105,"sub_total":1050,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1050
+Bill Total Due: 1050
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1050
+0
+New Member Balance : -1050
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 757
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Interest":0,"Election Expenses Collection":0,"Education Fund Collection":10,"Non Occupancy Charges":92,"Land Revenue Charges":20,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":30,"Building Maintenace Charges":104,"Electricity Charges":203,"Sinking Fund":4,"Water Charges":200,"Municipal Taxes":128,"sub_total":1176,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 2352
+Last Interest Arrears : 0.00
+Current Balance : -2352.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 2352
+Current Month Interest: 0
+Soft Total: 3528
+Bill Total Due: 3528
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3528
+0
+New Member Balance : -3528
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 758
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Non Occupancy Charges":93,"Land Revenue Charges":20,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":30,"Building Maintenace Charges":109,"Electricity Charges":203,"Sinking Fund":5,"Water Charges":200,"Municipal Taxes":163,"sub_total":1218,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1218
+Bill Total Due: 1218
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1218
+0
+New Member Balance : -1218
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 759
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":20,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":30,"Building Maintenace Charges":93,"Electricity Charges":203,"Sinking Fund":3,"Water Charges":200,"Municipal Taxes":99,"sub_total":1043,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 1043
+Last Interest Arrears : 0.00
+Current Balance : -1043.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 1043
+Current Month Interest: 0
+Soft Total: 2086
+Bill Total Due: 2086
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2086
+0
+New Member Balance : -2086
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 760
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Interest":108,"Election Expenses Collection":0,"Education Fund Collection":10,"Non Occupancy Charges":92,"Land Revenue Charges":20,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":30,"Building Maintenace Charges":106,"Electricity Charges":203,"Sinking Fund":4,"Water Charges":200,"Municipal Taxes":121,"sub_total":1279,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 6309
+Last Interest Arrears : 0.00
+Current Balance : -6309.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 6309
+Current Month Interest: 0
+Soft Total: 7588
+Bill Total Due: 7588
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 7588
+0
+New Member Balance : -7588
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 761
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Interest":108,"Election Expenses Collection":0,"Education Fund Collection":10,"Non Occupancy Charges":92,"Land Revenue Charges":20,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":30,"Building Maintenace Charges":106,"Electricity Charges":203,"Sinking Fund":4,"Water Charges":200,"Municipal Taxes":121,"sub_total":1279,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 6309
+Last Interest Arrears : 0.00
+Current Balance : -6309.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 6309
+Current Month Interest: 0
+Soft Total: 7588
+Bill Total Due: 7588
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 7588
+0
+New Member Balance : -7588
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 762
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":20,"Repair & Painting Charges":157,"Monthly Service Charges":220,"Insurance":30,"Building Maintenace Charges":93,"Electricity Charges":203,"Sinking Fund":3,"Water Charges":200,"Municipal Taxes":99,"sub_total":1035,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 1089.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1035
+Bill Total Due: -54
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 54
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 763
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":20,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":30,"Building Maintenace Charges":109,"Electricity Charges":203,"Sinking Fund":5,"Municipal Taxes":163,"sub_total":925,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 925
+Bill Total Due: 925
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 925
+0
+New Member Balance : -925
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 764
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Non Occupancy Charges":92,"Land Revenue Charges":20,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":30,"Building Maintenace Charges":106,"Electricity Charges":203,"Sinking Fund":4,"Water Charges":200,"Municipal Taxes":126,"sub_total":1176,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1176
+Bill Total Due: 1176
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1176
+0
+New Member Balance : -1176
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 765
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Interest":0,"Education Fund Collection":10,"Courier Charges":35,"Non Occupancy Charges":194,"Land Revenue Charges":40,"Repair & Painting Charges":330,"Monthly Service Charges":440,"Insurance":60,"Building Maintenace Charges":282,"Electricity Charges":203,"Sinking Fund":26,"Water Charges":420,"Municipal Taxes":325,"sub_total":2365,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 8342
+Last Interest Arrears : 0.00
+Current Balance : -8342.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 8342
+Current Month Interest: 0
+Soft Total: 10707
+Bill Total Due: 10707
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 10707
+0
+New Member Balance : -10707
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 766
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Interest":0,"Education Fund Collection":10,"Non Occupancy Charges":91,"Land Revenue Charges":20,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":30,"Building Maintenace Charges":88,"Electricity Charges":203,"Sinking Fund":2,"Water Charges":200,"Municipal Taxes":60,"sub_total":1089,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 2178
+Last Interest Arrears : 0.00
+Current Balance : -2178.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 2178
+Current Month Interest: 0
+Soft Total: 3267
+Bill Total Due: 3267
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3267
+0
+New Member Balance : -3267
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 767
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Interest":66,"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":20,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":30,"Building Maintenace Charges":105,"Electricity Charges":203,"Sinking Fund":5,"Water Charges":200,"Municipal Taxes":182,"sub_total":1206,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 3786
+Last Interest Arrears : 0.00
+Current Balance : -3786.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 3786
+Current Month Interest: 0
+Soft Total: 4992
+Bill Total Due: 4992
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4992
+0
+New Member Balance : -4992
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 768
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Interest":66,"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":20,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":30,"Building Maintenace Charges":110,"Electricity Charges":203,"Sinking Fund":7,"Water Charges":200,"Municipal Taxes":162,"sub_total":1193,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 3746
+Last Interest Arrears : 0.00
+Current Balance : -3746.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 3746
+Current Month Interest: 0
+Soft Total: 4939
+Bill Total Due: 4939
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4939
+0
+New Member Balance : -4939
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 769
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":43,"Electricity Charges":203,"Municipal Taxes":47,"sub_total":713,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 713
+Bill Total Due: 713
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 713
+0
+New Member Balance : -713
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 770
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Interest":42,"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":43,"Electricity Charges":203,"Municipal Taxes":40,"sub_total":748,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 2418
+Last Interest Arrears : 0.00
+Current Balance : -2418.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 2418
+Current Month Interest: 0
+Soft Total: 3166
+Bill Total Due: 3166
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3166
+0
+New Member Balance : -3166
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 771
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":42,"Electricity Charges":203,"Municipal Taxes":33,"sub_total":698,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 186
+Last Interest Arrears : 0.00
+Current Balance : -186.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 186
+Current Month Interest: 0
+Soft Total: 884
+Bill Total Due: 884
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 884
+0
+New Member Balance : -884
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 772
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Election Expenses Collection":0,"Education Fund Collection":10,"Land Revenue Charges":12,"Repair & Painting Charges":165,"Monthly Service Charges":220,"Insurance":13,"Building Maintenace Charges":43,"Electricity Charges":203,"Municipal Taxes":55,"sub_total":721,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-10-25
+Current Bill Date : 2019-09-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 4747.00
+Last Bill Due : 2019-10-24
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 721
+Bill Total Due: -4026
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 4026
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,125 @@
+Member ID : 987
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Water Charges":150,"Building Maintenace Charges":100,"Municipal Taxes":225,"Property Tax ":450,"sub_total":925,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-03
+Current Bill Date : 2019-12-02
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-11-02
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 925
+Bill Total Due: 925
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 925
+0
+New Member Balance : -925
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 988
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Building Maintenace Charges":100,"Water Charges":150,"Municipal Taxes":0.5,"Property Tax ":750,"sub_total":1550.5,"Parking Charges":450,"NOC Charges":100}
+Data for late payment check model
+Last Due Date : 2019-12-03
+Current Bill Date : 2019-12-02
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-11-02
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1550.5
+Bill Total Due: 1550.5
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1550.5
+0
+New Member Balance : -1550.5
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 989
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Water Charges":150,"Building Maintenace Charges":100,"Municipal Taxes":225,"Property Tax ":450,"sub_total":1125,"Parking Charges":200,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-03
+Current Bill Date : 2019-12-02
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-11-02
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1125
+Bill Total Due: 1125
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1125
+0
+New Member Balance : -1125
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 990
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Building Maintenace Charges":100,"Water Charges":150,"Municipal Taxes":0.5,"Property Tax ":750,"sub_total":1300.5,"Parking Charges":300,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-03
+Current Bill Date : 2019-12-02
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-11-02
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1300.5
+Bill Total Due: 1300.5
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1300.5
+0
+New Member Balance : -1300.5
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 991
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Water Charges":150,"Building Maintenace Charges":100,"Municipal Taxes":225,"Property Tax ":450,"sub_total":1175,"Parking Charges":250,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-03
+Current Bill Date : 2019-12-02
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-11-02
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1175
+Bill Total Due: 1175
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1175
+0
+New Member Balance : -1175
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+

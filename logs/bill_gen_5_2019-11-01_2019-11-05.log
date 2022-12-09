@@ -1,0 +1,375 @@
+Member ID : 245
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Monthly Cabin":18000,"sub_total":18000,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-01
+Current Bill Date : 2019-11-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-05
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 18000
+Bill Total Due: 18000
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 18000
+0
+New Member Balance : -18000
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 246
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Monthly Cabin":22000,"sub_total":22000,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-01
+Current Bill Date : 2019-11-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-05
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 22000
+Bill Total Due: 22000
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 22000
+0
+New Member Balance : -22000
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 247
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Monthly Cabin":50000,"sub_total":50000,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-01
+Current Bill Date : 2019-11-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-05
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 50000
+Bill Total Due: 50000
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 50000
+0
+New Member Balance : -50000
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 248
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Monthly Cabin":22000,"sub_total":22000,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-01
+Current Bill Date : 2019-11-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-05
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 22000
+Bill Total Due: 22000
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 22000
+0
+New Member Balance : -22000
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 249
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Monthly Cabin":21000,"sub_total":21000,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-01
+Current Bill Date : 2019-11-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-05
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 21000
+Bill Total Due: 21000
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 21000
+0
+New Member Balance : -21000
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 250
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Monthly Cabin":20000,"sub_total":20000,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-01
+Current Bill Date : 2019-11-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-05
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 20000
+Bill Total Due: 20000
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 20000
+0
+New Member Balance : -20000
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 251
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Monthly Cabin":9000,"sub_total":9000,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-01
+Current Bill Date : 2019-11-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-05
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 9000
+Bill Total Due: 9000
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 9000
+0
+New Member Balance : -9000
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 252
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Monthly Cabin":20000,"sub_total":20000,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-01
+Current Bill Date : 2019-11-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-05
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 20000
+Bill Total Due: 20000
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 20000
+0
+New Member Balance : -20000
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 253
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Single Seater - Office Space":5000,"sub_total":5000,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-01
+Current Bill Date : 2019-11-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-05
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 5000
+Bill Total Due: 5000
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 5000
+0
+New Member Balance : -5000
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 254
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Single Seater - Office Space":5000,"sub_total":5000,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-01
+Current Bill Date : 2019-11-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-05
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 5000
+Bill Total Due: 5000
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 5000
+0
+New Member Balance : -5000
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 255
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Single Seater - Office Space":5000,"sub_total":5000,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-01
+Current Bill Date : 2019-11-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-05
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 5000
+Bill Total Due: 5000
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 5000
+0
+New Member Balance : -5000
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 256
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Single Seater - Office Space":7000,"sub_total":7000,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-01
+Current Bill Date : 2019-11-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-05
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 7000
+Bill Total Due: 7000
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 7000
+0
+New Member Balance : -7000
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 257
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Single Seater - Office Space":1500,"sub_total":1500,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-01
+Current Bill Date : 2019-11-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-05
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 1500
+Bill Total Due: 1500
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1500
+0
+New Member Balance : -1500
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 258
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"2 Single Seater - Office Space":10000,"sub_total":10000,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-01
+Current Bill Date : 2019-11-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-05
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 10000
+Bill Total Due: 10000
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 10000
+0
+New Member Balance : -10000
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 259
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"10 Seater - Office Space":65000,"sub_total":65000,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-01
+Current Bill Date : 2019-11-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-05
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 65000
+Bill Total Due: 65000
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 65000
+0
+New Member Balance : -65000
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+

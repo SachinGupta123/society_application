@@ -1,0 +1,6 @@
+Society_Name,Society_Address,Society_Email,Phone_Number,Society_Reg_No,GST_No,Is_GST_Applicable,No_Of_Flats,Billing_Day,Due_Day,Interest_Type,Interest_Span,Interest_Rate
+Sample Society1,Sample Address,sample1@sample.com,9999999999,SAMPLE987654,ABC123456,1,50,1,10,Simple Interest,Daily,12
+Sample Society2,Sample Address,sample2@sample.com,9999999999,SAMPLE987654,ABC123456,0,100,15,25,Compound Interest,Monthly,21
+Sample Society3,Sample Address,sample3@sample.com,9999999999,SAMPLE987654,ABC123456,0,200,5,10,Fixed Panalty,Quarterly,20
+Sample Society7,Sample Address,sample7@sample.com,9999999999,SAMPLE987654,ABC123456,1,75,1,4,Compound Interest,Half Yearly,18
+Sample Society6,Sample Address,sample6@sample.com,9999999999,SAMPLE987654,ABC123456,1,80,20,25,Fixed Panalty,Yearly,11

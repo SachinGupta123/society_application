@@ -1,0 +1,525 @@
+Member ID : 884
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Festival Charger ":100,"Water Tax ":2,"Property tax ":900,"Building Maintenace":150,"sub_total":1392,"Parking Charges":140,"NOC Charges":100}
+Data for late payment check model
+Last Due Date : 2019-11-16
+Current Bill Date : 2019-10-01
+Late Payment Entry : []
+Last Princpal Arrears : 1392
+Last Interest Arrears : 0.00
+Current Balance : -1392.00
+Last Bill Due : 2019-09-05
+Days Elapsed : 1
+Interestable Amount : 1392
+Current Month Interest: 24.36
+Soft Total: 2808.36
+Bill Total Due: 2808.36
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2784
+24.36
+New Member Balance : -2808.36
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 885
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Building Maintenace":150,"Festival Charger ":100,"Water Tax ":1500,"Property tax ":1500,"sub_total":3790,"Parking Charges":440,"NOC Charges":100}
+Data for late payment check model
+Last Due Date : 2019-11-16
+Current Bill Date : 2019-10-01
+Late Payment Entry : []
+Last Princpal Arrears : 3790
+Last Interest Arrears : 0.00
+Current Balance : -3790.00
+Last Bill Due : 2019-09-05
+Days Elapsed : 1
+Interestable Amount : 3790
+Current Month Interest: 66.325
+Soft Total: 7646.325
+Bill Total Due: 7646.325
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 7580
+66.325
+New Member Balance : -7646.325
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 886
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Festival Charger ":100,"Water Tax ":2,"Property tax ":900,"Building Maintenace":150,"sub_total":1572,"Parking Charges":320,"NOC Charges":100}
+Data for late payment check model
+Last Due Date : 2019-11-16
+Current Bill Date : 2019-10-01
+Late Payment Entry : []
+Last Princpal Arrears : 1572
+Last Interest Arrears : 0.00
+Current Balance : -1572.00
+Last Bill Due : 2019-09-05
+Days Elapsed : 1
+Interestable Amount : 1572
+Current Month Interest: 27.51
+Soft Total: 3171.51
+Bill Total Due: 3171.51
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3144
+27.51
+New Member Balance : -3171.51
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 887
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Building Maintenace":150,"Festival Charger ":100,"Water Tax ":1500,"Property tax ":1500,"sub_total":3490,"Parking Charges":140,"NOC Charges":100}
+Data for late payment check model
+Last Due Date : 2019-11-16
+Current Bill Date : 2019-10-01
+Late Payment Entry : []
+Last Princpal Arrears : 3490
+Last Interest Arrears : 0.00
+Current Balance : -3490.00
+Last Bill Due : 2019-09-05
+Days Elapsed : 1
+Interestable Amount : 3490
+Current Month Interest: 61.075
+Soft Total: 7041.075
+Bill Total Due: 7041.075
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 6980
+61.075
+New Member Balance : -7041.075
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 888
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Festival Charger ":100,"Water Tax ":2,"Property tax ":900,"Building Maintenace":150,"sub_total":1692,"Parking Charges":440,"NOC Charges":100}
+Data for late payment check model
+Last Due Date : 2019-11-16
+Current Bill Date : 2019-10-01
+Late Payment Entry : []
+Last Princpal Arrears : 1692
+Last Interest Arrears : 0.00
+Current Balance : -1692.00
+Last Bill Due : 2019-09-05
+Days Elapsed : 1
+Interestable Amount : 1692
+Current Month Interest: 29.61
+Soft Total: 3413.61
+Bill Total Due: 3413.61
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3384
+29.61
+New Member Balance : -3413.61
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 889
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Festival Charger ":100,"Water Tax ":2,"Property tax ":900,"Building Maintenace":150,"sub_total":1152,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-16
+Current Bill Date : 2019-10-01
+Late Payment Entry : []
+Last Princpal Arrears : 1152
+Last Interest Arrears : 0.00
+Current Balance : -1152.00
+Last Bill Due : 2019-09-05
+Days Elapsed : 1
+Interestable Amount : 1152
+Current Month Interest: 20.16
+Soft Total: 2324.16
+Bill Total Due: 2324.16
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2304
+20.16
+New Member Balance : -2324.16
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 890
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Building Maintenace":150,"Festival Charger ":100,"Water Tax ":1500,"Property tax ":1500,"sub_total":3250,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-16
+Current Bill Date : 2019-10-01
+Late Payment Entry : []
+Last Princpal Arrears : 3250
+Last Interest Arrears : 0.00
+Current Balance : -3250.00
+Last Bill Due : 2019-09-05
+Days Elapsed : 1
+Interestable Amount : 3250
+Current Month Interest: 56.875
+Soft Total: 6556.875
+Bill Total Due: 6556.875
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 6500
+56.875
+New Member Balance : -6556.875
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 891
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Festival Charger ":100,"Water Tax ":2,"Property tax ":900,"Building Maintenace":150,"sub_total":1272,"Parking Charges":120,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-16
+Current Bill Date : 2019-10-01
+Late Payment Entry : []
+Last Princpal Arrears : 1272
+Last Interest Arrears : 0.00
+Current Balance : -1272.00
+Last Bill Due : 2019-09-05
+Days Elapsed : 1
+Interestable Amount : 1272
+Current Month Interest: 22.26
+Soft Total: 2566.26
+Bill Total Due: 2566.26
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2544
+22.26
+New Member Balance : -2566.26
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 892
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Building Maintenace":150,"Festival Charger ":100,"Water Tax ":1500,"Property tax ":1500,"sub_total":3490,"Parking Charges":240,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-16
+Current Bill Date : 2019-10-01
+Late Payment Entry : []
+Last Princpal Arrears : 3490
+Last Interest Arrears : 0.00
+Current Balance : -3490.00
+Last Bill Due : 2019-09-05
+Days Elapsed : 1
+Interestable Amount : 3490
+Current Month Interest: 61.075
+Soft Total: 7041.075
+Bill Total Due: 7041.075
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 6980
+61.075
+New Member Balance : -7041.075
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 893
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Festival Charger ":100,"Water Tax ":2,"Property tax ":900,"Building Maintenace":150,"sub_total":1272,"Parking Charges":120,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-16
+Current Bill Date : 2019-10-01
+Late Payment Entry : []
+Last Princpal Arrears : 1272
+Last Interest Arrears : 0.00
+Current Balance : -1272.00
+Last Bill Due : 2019-09-05
+Days Elapsed : 1
+Interestable Amount : 1272
+Current Month Interest: 22.26
+Soft Total: 2566.26
+Bill Total Due: 2566.26
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2544
+22.26
+New Member Balance : -2566.26
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 894
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Festival Charger ":100,"Water Tax ":2,"Property tax ":900,"Building Maintenace":150,"sub_total":1472,"Parking Charges":320,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-16
+Current Bill Date : 2019-10-01
+Late Payment Entry : []
+Last Princpal Arrears : 1472
+Last Interest Arrears : 0.00
+Current Balance : -1472.00
+Last Bill Due : 2019-09-05
+Days Elapsed : 1
+Interestable Amount : 1472
+Current Month Interest: 25.76
+Soft Total: 2969.76
+Bill Total Due: 2969.76
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2944
+25.76
+New Member Balance : -2969.76
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 895
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Building Maintenace":150,"Festival Charger ":100,"Water Tax ":1500,"Property tax ":1500,"sub_total":3350,"Parking Charges":0,"NOC Charges":100}
+Data for late payment check model
+Last Due Date : 2019-11-16
+Current Bill Date : 2019-10-01
+Late Payment Entry : []
+Last Princpal Arrears : 3350
+Last Interest Arrears : 0.00
+Current Balance : -3350.00
+Last Bill Due : 2019-09-05
+Days Elapsed : 1
+Interestable Amount : 3350
+Current Month Interest: 58.625
+Soft Total: 6758.625
+Bill Total Due: 6758.625
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 6700
+58.625
+New Member Balance : -6758.625
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 896
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Festival Charger ":100,"Water Tax ":2,"Property tax ":900,"Building Maintenace":150,"sub_total":1152,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-16
+Current Bill Date : 2019-10-01
+Late Payment Entry : []
+Last Princpal Arrears : 1152
+Last Interest Arrears : 0.00
+Current Balance : -1152.00
+Last Bill Due : 2019-09-05
+Days Elapsed : 1
+Interestable Amount : 1152
+Current Month Interest: 20.16
+Soft Total: 2324.16
+Bill Total Due: 2324.16
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2304
+20.16
+New Member Balance : -2324.16
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 897
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Building Maintenace":150,"Festival Charger ":100,"Water Tax ":1500,"Property tax ":1500,"sub_total":3350,"Parking Charges":0,"NOC Charges":100}
+Data for late payment check model
+Last Due Date : 2019-11-16
+Current Bill Date : 2019-10-01
+Late Payment Entry : []
+Last Princpal Arrears : 3350
+Last Interest Arrears : 0.00
+Current Balance : -3350.00
+Last Bill Due : 2019-09-05
+Days Elapsed : 1
+Interestable Amount : 3350
+Current Month Interest: 58.625
+Soft Total: 6758.625
+Bill Total Due: 6758.625
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 6700
+58.625
+New Member Balance : -6758.625
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 898
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Festival Charger ":100,"Water Tax ":2,"Property tax ":900,"Building Maintenace":150,"sub_total":1372,"Parking Charges":220,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-16
+Current Bill Date : 2019-10-01
+Late Payment Entry : []
+Last Princpal Arrears : 1372
+Last Interest Arrears : 0.00
+Current Balance : -1372.00
+Last Bill Due : 2019-09-05
+Days Elapsed : 1
+Interestable Amount : 1372
+Current Month Interest: 24.01
+Soft Total: 2768.01
+Bill Total Due: 2768.01
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2744
+24.01
+New Member Balance : -2768.01
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 899
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Festival Charger ":100,"Water Tax ":2,"Property tax ":900,"Building Maintenace":150,"sub_total":1492,"Parking Charges":340,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-16
+Current Bill Date : 2019-10-01
+Late Payment Entry : []
+Last Princpal Arrears : 1492
+Last Interest Arrears : 0.00
+Current Balance : -1492.00
+Last Bill Due : 2019-09-05
+Days Elapsed : 1
+Interestable Amount : 1492
+Current Month Interest: 26.11
+Soft Total: 3010.11
+Bill Total Due: 3010.11
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2984
+26.11
+New Member Balance : -3010.11
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 900
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Building Maintenace":150,"Festival Charger ":100,"Water Tax ":1500,"Property tax ":1500,"sub_total":3370,"Parking Charges":120,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-16
+Current Bill Date : 2019-10-01
+Late Payment Entry : []
+Last Princpal Arrears : 3370
+Last Interest Arrears : 0.00
+Current Balance : -3370.00
+Last Bill Due : 2019-09-05
+Days Elapsed : 1
+Interestable Amount : 3370
+Current Month Interest: 58.975
+Soft Total: 6798.975
+Bill Total Due: 6798.975
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 6740
+58.975
+New Member Balance : -6798.975
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 901
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Festival Charger ":100,"Water Tax ":2,"Property tax ":900,"Building Maintenace":150,"sub_total":1392,"Parking Charges":140,"NOC Charges":100}
+Data for late payment check model
+Last Due Date : 2019-11-16
+Current Bill Date : 2019-10-01
+Late Payment Entry : []
+Last Princpal Arrears : 1392
+Last Interest Arrears : 0.00
+Current Balance : -1392.00
+Last Bill Due : 2019-09-05
+Days Elapsed : 1
+Interestable Amount : 1392
+Current Month Interest: 24.36
+Soft Total: 2808.36
+Bill Total Due: 2808.36
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2784
+24.36
+New Member Balance : -2808.36
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 902
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Building Maintenace":150,"Festival Charger ":100,"Water Tax ":1500,"Property tax ":1500,"sub_total":3350,"Parking Charges":0,"NOC Charges":100}
+Data for late payment check model
+Last Due Date : 2019-11-16
+Current Bill Date : 2019-10-01
+Late Payment Entry : []
+Last Princpal Arrears : 3350
+Last Interest Arrears : 0.00
+Current Balance : -3350.00
+Last Bill Due : 2019-09-05
+Days Elapsed : 1
+Interestable Amount : 3350
+Current Month Interest: 58.625
+Soft Total: 6758.625
+Bill Total Due: 6758.625
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 6700
+58.625
+New Member Balance : -6758.625
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 903
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Festival Charger ":100,"Water Tax ":2,"Property tax ":900,"Building Maintenace":150,"sub_total":1252,"Parking Charges":0,"NOC Charges":100}
+Data for late payment check model
+Last Due Date : 2019-11-16
+Current Bill Date : 2019-10-01
+Late Payment Entry : []
+Last Princpal Arrears : 1252
+Last Interest Arrears : 0.00
+Current Balance : -1252.00
+Last Bill Due : 2019-09-05
+Days Elapsed : 1
+Interestable Amount : 1252
+Current Month Interest: 21.91
+Soft Total: 2525.91
+Bill Total Due: 2525.91
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2504
+21.91
+New Member Balance : -2525.91
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 904
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Building Maintenace":150,"Festival Charger ":100,"Water Tax ":1500,"Property tax ":1500,"sub_total":3570,"Parking Charges":320,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-16
+Current Bill Date : 2019-10-01
+Late Payment Entry : []
+Last Princpal Arrears : 3570
+Last Interest Arrears : 0.00
+Current Balance : -3570.00
+Last Bill Due : 2019-09-05
+Days Elapsed : 1
+Interestable Amount : 3570
+Current Month Interest: 62.475
+Soft Total: 7202.475
+Bill Total Due: 7202.475
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 7140
+62.475
+New Member Balance : -7202.475
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+

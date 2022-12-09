@@ -1,0 +1,25 @@
+Member ID : 981
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Property Tax ":100,"Building Maintenace Charges":100,"Municipal Taxes":750,"Water Charges":750,"sub_total":2050,"Parking Charges":350,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-11-27
+Current Bill Date : 2019-11-26
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-10-26
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 2050
+Bill Total Due: 2050
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2050
+0
+New Member Balance : -2050
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+

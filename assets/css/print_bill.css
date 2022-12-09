@@ -1,0 +1,35 @@
+.table-bordered-no-inherit{
+  border: 1px solid #000 !important;
+} 
+
+.table-bordered-no-inherit tbody+tbody, 
+.table-bordered-no-inherit td,
+.table-bordered-no-inherit th,
+.table-bordered-no-inherit thead th  {
+  border: 1px solid #000 !important;
+}
+
+.no-border {
+  border:none !important;
+}
+
+.single-border-bottom {
+  border-bottom: 2px solid #000 !important;
+}
+
+.single-border-top {
+  border-top: 2px solid #000 !important;
+}
+
+.double-border-bottom {
+  border-bottom: 4px double #000 !important;
+}
+
+.double-border-top {
+  border-top: 4px double #000 !important;
+}
+
+td
+{
+	font-size: 14px !important;
+}

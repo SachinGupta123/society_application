@@ -1,0 +1,9 @@
+image: atlassian/default-image:latest
+
+pipelines:
+  default:
+    - step:
+        deployment: staging
+        script:
+          - cat ./deploy.sh | ssh ubuntu@13.127.100.237
+          - echo "Deploy step finished"

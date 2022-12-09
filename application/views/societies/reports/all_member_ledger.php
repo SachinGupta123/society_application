@@ -1,0 +1,181 @@
+<?php
+
+defined('BASEPATH') or exit('No direct script access allowed');
+$society_id = $this->uri->segment(3);
+// echo"<pre>";print_r($ledger_data);die;
+$this->load->view('common/header_msoc');
+
+?>
+
+<!-- Main Content -->
+
+<div class="main-content">
+
+  <section class="section">
+
+    <div class="section-header">
+      <h1><?php echo society_name($this->uri->segment(3)) ?></h1>
+      <div class="section-header-breadcrumb">
+
+        <?php if ($this->ion_auth->is_admin()) :?> 
+        <div class="breadcrumb-item"><a href="<?php echo base_url("dashboard"); ?>">Dashboard</a></div>
+        <?php endif;?>
+        <div class="breadcrumb-item active"><a href="<?php echo base_url("societies"); ?>">Society List</a></div>
+         
+        <div class="breadcrumb-item active"><a href="<?php echo base_url(); ?>societies/details/<?= $society_id ?>">Society Dashboard</a></div>
+        <div class="breadcrumb-item"><a href="<?php echo base_url(); ?>societies_report/reports/<?=$society_id ?>">View Reports</a></div>
+        
+        <div class="breadcrumb-item"><a href="<?php echo base_url("societies_report/all_member_list/").$society_id; ?>">Flats List</a></div>
+        <div class="breadcrumb-item">Flat Report</div>
+      </div>
+    </div>
+    <div class="section-body">
+      <h2 class="section-title">Flats Ledger</h2>
+      <div class="row">
+        <div class="col-12">
+          <div class="card p-2 shadow-sm">
+            <div class="card-header">
+              <h4>Flats Ledger</h4>
+            </div>
+
+            <div class="card-body p-3 border">
+              <div class="table-responsive">
+                <table class="col-md-12 zi-table table-hover table-condensed cf table-sm" id="table-1">
+                  <thead>
+                    <tr>
+                      <th class="text-left">Posted As Of</th>
+                      <th class="text-left">Wing</th>
+                      <th class="text-left">Flat No.</th>
+                      <th class="text-left">Member Name</th>                      
+                      <!-- <th class="text-left">Doc No.</th> -->
+                      <th class="text-left">Comments</th>
+                      <th class="text-left">Credit</th>
+                      <th class="text-left">Debit</th>
+                      <th class="text-left mtWid">Balance</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+
+                  <?php if(isset($flat_transaction) && !empty($flat_transaction)){
+                      $balance=0;
+                      foreach($flat_transaction as $ob){                
+
+                  ?>
+                      <tr>
+                      <td class="text-left"><?php echo date("d-m-Y",strtotime($ob->date))?></td>
+                      <td class="text-left"><?php echo $member_details->wing?></td>
+                      <td class="text-left"><?php echo $member_details->flat_no?></td> 
+                      <td class="text-left"><?php echo $member_details->name?></td>
+                      <td class="text-left"><?php echo $ob->narration?></td>
+                      <td class="text-left"><?php if($ob->dc=="C") echo $ob->amount;else echo "0"; ?></td>
+                      <td class="text-left"><?php if($ob->dc=="D") echo $ob->amount;else echo "0"; ?></td>
+                      <td class="text-left">
+                        <?php 
+                            if($ob->dc=="D")
+                              $balance=$balance+$ob->amount;
+
+                            if($ob->dc=="C") 
+                              $balance=$balance-$ob->amount;
+                              
+                              echo $balance;
+
+
+                      
+                      ?></td>
+                    
+                      </tr>
+                  <?php
+                       }
+                  }else {                   
+                     foreach ($ledger_data as $ledger) { ?>
+                   
+                    <tr>
+                      <td class="text-left">
+                        <?= $ledger['posted_date'];//date("d-m-Y",strtotime($this->Member_model->get_entity_date($ledger['entity_id'], $ledger['narration'], $ledger['member_id']))); ?>
+                      </td>
+                      <td class="text-left"><?= $ledger['wing'] ?></td>
+                      <td class="text-left"><?= $ledger['flat_no'] ?></td>
+                      <td class="text-left"><?= $ledger['name'] ?></td> 
+                      <!-- <td class="text-left"><?//= $ledger['entity_id'] ?></td> -->
+                      <td class="text-left"><?= $ledger['narration'] ?></td>
+                      <td class="text-left">
+                        <?= round(($ledger['narration'] == "OPENINGBALANCE") ? number_format((float)$ledger['debit'], 2, '.', '') : number_format((float)$ledger['credit'], 2, '.', '')); ?>
+                      </td>
+                      <td class="text-left">
+                        <?= round(($ledger['narration'] == "OPENINGBALANCE") ? number_format((float)$ledger['credit'], 2, '.', '') : number_format((float)$ledger['debit'], 2, '.', '')); ?>
+                      </td>
+                      <td class="text-right font-weight-bold"><?= round(number_format((float)-$ledger['balance'], 2, '.', '')); ?></td>
+
+                    </tr>
+                   
+                    <?php } ?>
+                    <?php } ?>
+                    <!-- <tr>
+                            <td class="text-left" colspan="5">Opening Balance</td>
+                            <td class="text-left"><?//= $ledger['narration'] == 'OPENINGBALANCE' ? $ledger['balance'] : 0 ?></td>
+                          </tr> -->
+                  </tbody>
+
+                </table>
+
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+</div>
+
+<?php $this->load->view('common/footer'); ?>
+<script type="text/javascript">
+//   $("#table-1").dataTable({
+//   "columnDefs": [
+//     { "sortable": false, "targets": [2,3] }
+//   ]
+// });
+$(document).ready(function() {
+  $('#table-1').DataTable({
+    // dom: 'Bfrtip',
+    // "pageLength": 300,
+    // paging: true,
+    
+    dom: 'lBfrtip',
+    "aaSorting": [],
+    buttons: [
+        // {
+        //     extend: 'copy',
+        //     title:'<?php echo $title ?>',
+        // },
+        {
+            extend:  'csv', 
+            title:'<?php echo $title ?>',
+        },
+        {
+            extend: 'excel', 
+            title:'<?php echo $title ?>',
+        },
+        // {
+        //     extend: 'pdf',
+        //     title:'<?php //echo $title ?>',
+        // },
+
+        // {
+        //     extend: 'print',
+        //     title:'<?php //echo $title ?>',
+        // },
+        
+      ],
+      scrollY:false,
+      scrollX:true,
+      "autoWidth": false,
+  });
+});
+</script>

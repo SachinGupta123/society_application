@@ -1,0 +1,27 @@
+{
+  "name": "msocietyci",
+  "version": "1.0.0",
+  "description": "mSociety-php-version",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/zaid.ansari/msociety-web.git"
+  },
+  "author": "Pradeep Bhosle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/zaid.ansari/msociety-web/issues"
+  },
+  "homepage": "https://gitlab.com/zaid.ansari/msociety-web#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.0",
+    "gulp": "^4.0.2",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.45.0"
+  }
+}

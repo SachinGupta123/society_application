@@ -1,0 +1,125 @@
+Member ID : 982
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"festival ":100,"water charges":200,"property tax":150,"sub_total":870,"Parking Charges":420,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-11
+Current Bill Date : 2020-01-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-12-10
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 870
+Bill Total Due: 870
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 870
+0
+New Member Balance : -870
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 983
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"festival ":100,"property tax":150,"water charges ":200,"sub_total":550,"Parking Charges":0,"NOC Charges":100}
+Data for late payment check model
+Last Due Date : 2019-12-11
+Current Bill Date : 2020-01-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-12-10
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 550
+Bill Total Due: 550
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 550
+0
+New Member Balance : -550
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 984
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"water charges":200,"festival ":100,"property tax":150,"sub_total":450,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-11
+Current Bill Date : 2020-01-01
+Late Payment Entry : []
+Last Princpal Arrears : 450
+Last Interest Arrears : 0.00
+Current Balance : -450.00
+Last Bill Due : 2019-12-10
+Days Elapsed : 1
+Interestable Amount : 450
+Current Month Interest: 7.875
+Soft Total: 907.875
+Bill Total Due: 907.875
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 900
+7.875
+New Member Balance : -907.875
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 985
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"festival":100,"property tax":150,"water charges":200,"sub_total":450,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-11
+Current Bill Date : 2020-01-01
+Late Payment Entry : []
+Last Princpal Arrears : 450
+Last Interest Arrears : 0.00
+Current Balance : -450.00
+Last Bill Due : 2019-12-10
+Days Elapsed : 1
+Interestable Amount : 450
+Current Month Interest: 7.875
+Soft Total: 907.875
+Bill Total Due: 907.875
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 900
+7.875
+New Member Balance : -907.875
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 986
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"water charges":200,"property tax":150,"festival":100,"sub_total":450,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-11
+Current Bill Date : 2020-01-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-12-10
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 450
+Bill Total Due: 450
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 450
+0
+New Member Balance : -450
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,250 @@
+Member ID : 1
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Repair Funds":300,"Services Charges":200,"Sinking Fund":50,"Maintenance Charges":150,"sub_total":700,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2020-02-21
+Current Bill Date : 2020-03-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2020-02-10
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 700
+Bill Total Due: 700
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 700
+0
+New Member Balance : -700
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 2
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Repair Funds":350,"Service Charges":200,"Sinking Fund":75,"Maintenance Charges":200,"sub_total":825,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2020-02-21
+Current Bill Date : 2020-03-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 0.02
+Last Bill Due : 2020-02-10
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 825
+Bill Total Due: 824.98
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 824.98
+0
+New Member Balance : -824.98
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 3
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Repair Funds":300,"Services Charges":200,"Sinking Fund":50,"Maintenance Charges":150,"sub_total":700,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2020-02-21
+Current Bill Date : 2020-03-01
+Late Payment Entry : []
+Last Princpal Arrears : 536.75
+Last Interest Arrears : 0.00
+Current Balance : -536.75
+Last Bill Due : 2020-02-10
+Days Elapsed : 1
+Interestable Amount : 536.75
+Current Month Interest: 9.393125
+Soft Total: 1246.143125
+Bill Total Due: 1246.143125
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1236.75
+9.393125
+New Member Balance : -1246.143125
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 4
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Repair Funds":350,"Service Charges":200,"Sinking Fund":75,"Maintenance Charges":200,"sub_total":825,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2020-02-21
+Current Bill Date : 2020-03-01
+Late Payment Entry : []
+Last Princpal Arrears : 1318.3125
+Last Interest Arrears : 0.00
+Current Balance : -1318.31
+Last Bill Due : 2020-02-10
+Days Elapsed : 1
+Interestable Amount : 1318.3125
+Current Month Interest: 23.07046875
+Soft Total: 2166.38296875
+Bill Total Due: 2166.38296875
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 2143.3125
+23.07046875
+New Member Balance : -2166.38296875
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 5
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Repair Funds":300,"Services Charges":200,"Sinking Fund":50,"Maintenance Charges":150,"sub_total":925,"Parking Charges":200,"NOC Charges":25}
+Data for late payment check model
+Last Due Date : 2020-02-21
+Current Bill Date : 2020-03-01
+Late Payment Entry : []
+Last Princpal Arrears : 925
+Last Interest Arrears : 0.00
+Current Balance : -925.00
+Last Bill Due : 2020-02-10
+Days Elapsed : 1
+Interestable Amount : 925
+Current Month Interest: 16.1875
+Soft Total: 1866.1875
+Bill Total Due: 1866.1875
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1850
+16.1875
+New Member Balance : -1866.1875
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 6
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Repair Funds":350,"Service Charges":200,"Sinking Fund":75,"Maintenance Charges":200,"sub_total":825,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2020-02-21
+Current Bill Date : 2020-03-01
+Late Payment Entry : []
+Last Princpal Arrears : 1157.75
+Last Interest Arrears : 5.823125
+Current Balance : -1163.57
+Last Bill Due : 2020-02-10
+Days Elapsed : 1
+Interestable Amount : 1157.75
+Current Month Interest: 20.260625
+Soft Total: 2008.83375
+Bill Total Due: 2008.83375
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1982.75
+20.260625
+New Member Balance : -2008.83375
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 7
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Repair Funds":300,"Services Charges":200,"Sinking Fund":50,"Maintenance Charges":150,"sub_total":700,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2020-02-21
+Current Bill Date : 2020-03-01
+Late Payment Entry : []
+Last Princpal Arrears : 700
+Last Interest Arrears : 0.00
+Current Balance : -700.00
+Last Bill Due : 2020-02-10
+Days Elapsed : 1
+Interestable Amount : 700
+Current Month Interest: 12.25
+Soft Total: 1412.25
+Bill Total Due: 1412.25
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1400
+12.25
+New Member Balance : -1412.25
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 8
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Maintenance Charges":0,"sub_total":0,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2020-02-21
+Current Bill Date : 2020-03-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2020-02-10
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 0
+Bill Total Due: 0
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 0
+0
+New Member Balance : -0
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 9
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Repair Funds":300,"Services Charges":200,"Sinking Fund":50,"Maintenance Charges":150,"sub_total":700,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2020-02-21
+Current Bill Date : 2020-03-01
+Late Payment Entry : []
+Last Princpal Arrears : 1071.28625
+Last Interest Arrears : 0.00
+Current Balance : -1071.29
+Last Bill Due : 2020-02-10
+Days Elapsed : 1
+Interestable Amount : 1071.28625
+Current Month Interest: 18.747509375
+Soft Total: 1790.033759375
+Bill Total Due: 1790.033759375
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1771.28625
+18.747509375
+New Member Balance : -1790.033759375
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 10
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Repair Funds":350,"Service Charges":200,"Sinking Fund":75,"Maintenance Charges":200,"sub_total":950,"Parking Charges":100,"NOC Charges":25}
+Data for late payment check model
+Last Due Date : 2020-02-21
+Current Bill Date : 2020-03-01
+Late Payment Entry : []
+Last Princpal Arrears : 950.003125
+Last Interest Arrears : 0.000054687499999204
+Current Balance : -950.00
+Last Bill Due : 2020-02-10
+Days Elapsed : 1
+Interestable Amount : 950.003125
+Current Month Interest: 16.6250546875
+Soft Total: 1916.628234375
+Bill Total Due: 1916.628234375
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 1900.003125
+16.6250546875
+New Member Balance : -1916.628234375
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+

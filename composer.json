@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phplucidframe/bare-migration": "^1.1",
+        "mpdf/mpdf": "^8.0"
+    }
+}

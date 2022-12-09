@@ -1,0 +1,3775 @@
+Member ID : 992
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4287,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 4287.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4287
+Bill Total Due: -0
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 0
+0
+New Member Balance : 0
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 993
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":4028,"Parking Charges":50,"NOC Charges":179}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4028
+Bill Total Due: 4028
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4028
+0
+New Member Balance : -4028
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 994
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4237,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 3697
+Last Interest Arrears : 0.00
+Current Balance : -3697.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 3697
+Current Month Interest: 64.6975
+Soft Total: 7998.6975
+Bill Total Due: 7998.6975
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 7934
+64.6975
+New Member Balance : -7998.6975
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 995
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4312,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 8699
+Last Interest Arrears : 0.00
+Current Balance : -8699.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 8699
+Current Month Interest: 152.2325
+Soft Total: 13163.2325
+Bill Total Due: 13163.2325
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 13011
+152.2325
+New Member Balance : -13163.2325
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 996
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3874,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3874
+Bill Total Due: 3874
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3874
+0
+New Member Balance : -3874
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 997
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4287,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 200.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4287
+Bill Total Due: 4087
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 4087
+0
+New Member Balance : -4087
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 998
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4237,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4237
+Bill Total Due: 4237
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4237
+0
+New Member Balance : -4237
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 999
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3874,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 1981.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3874
+Bill Total Due: 1893
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 1893
+0
+New Member Balance : -1893
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1000
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4516,"Parking Charges":100,"NOC Charges":179}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 13785
+Last Interest Arrears : 0.00
+Current Balance : -13785.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 13785
+Current Month Interest: 241.2375
+Soft Total: 18542.2375
+Bill Total Due: 18542.2375
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 18301
+241.2375
+New Member Balance : -18542.2375
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1001
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4491,"Parking Charges":75,"NOC Charges":179}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 4491
+Last Interest Arrears : 0.00
+Current Balance : -4491.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 4491
+Current Month Interest: 78.5925
+Soft Total: 9060.5925
+Bill Total Due: 9060.5925
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 8982
+78.5925
+New Member Balance : -9060.5925
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1002
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":4078,"Parking Charges":100,"NOC Charges":179}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 4078
+Last Interest Arrears : 0.00
+Current Balance : -4078.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 4078
+Current Month Interest: 71.365
+Soft Total: 8227.365
+Bill Total Due: 8227.365
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 8156
+71.365
+New Member Balance : -8227.365
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1003
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4262,"Parking Charges":25,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4262
+Bill Total Due: 4262
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4262
+0
+New Member Balance : -4262
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1004
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4262,"Parking Charges":25,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4262
+Bill Total Due: 4262
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4262
+0
+New Member Balance : -4262
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1005
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3799,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3799
+Bill Total Due: 3799
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3799
+0
+New Member Balance : -3799
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1006
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4537,"Parking Charges":300,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4537
+Bill Total Due: 4537
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4537
+0
+New Member Balance : -4537
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1007
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4487,"Parking Charges":250,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4487
+Bill Total Due: 4487
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4487
+0
+New Member Balance : -4487
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1008
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3849,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3849
+Bill Total Due: 3849
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3849
+0
+New Member Balance : -3849
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1009
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4287,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4287
+Bill Total Due: 4287
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4287
+0
+New Member Balance : -4287
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1010
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4312,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4312
+Bill Total Due: 4312
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4312
+0
+New Member Balance : -4312
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1011
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":4003,"Parking Charges":25,"NOC Charges":179}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4003
+Bill Total Due: 4003
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4003
+0
+New Member Balance : -4003
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1012
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4337,"Parking Charges":100,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4337
+Bill Total Due: 4337
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4337
+0
+New Member Balance : -4337
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1013
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4262,"Parking Charges":25,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4262
+Bill Total Due: 4262
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4262
+0
+New Member Balance : -4262
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1014
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3849,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3849
+Bill Total Due: 3849
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3849
+0
+New Member Balance : -3849
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1015
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4237,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4237
+Bill Total Due: 4237
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4237
+0
+New Member Balance : -4237
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1016
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4312,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4312
+Bill Total Due: 4312
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4312
+0
+New Member Balance : -4312
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1017
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3849,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3849
+Bill Total Due: 3849
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3849
+0
+New Member Balance : -3849
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1018
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4337,"Parking Charges":100,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4337
+Bill Total Due: 4337
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4337
+0
+New Member Balance : -4337
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1019
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4312,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4312
+Bill Total Due: 4312
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4312
+0
+New Member Balance : -4312
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1020
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3824,"Parking Charges":25,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 3824.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3824
+Bill Total Due: -0
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 0
+0
+New Member Balance : 0
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1021
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4512,"Parking Charges":275,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 3629.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4512
+Bill Total Due: 883
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 883
+0
+New Member Balance : -883
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1022
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4512,"Parking Charges":275,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 4511
+Last Interest Arrears : 0.00
+Current Balance : -4511.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 4511
+Current Month Interest: 78.9425
+Soft Total: 9101.9425
+Bill Total Due: 9101.9425
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 9023
+78.9425
+New Member Balance : -9101.9425
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1023
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3874,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3874
+Bill Total Due: 3874
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3874
+0
+New Member Balance : -3874
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1024
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4337,"Parking Charges":100,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4337
+Bill Total Due: 4337
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4337
+0
+New Member Balance : -4337
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1025
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4237,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4237
+Bill Total Due: 4237
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4237
+0
+New Member Balance : -4237
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1026
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3849,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 6270.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3849
+Bill Total Due: -2421
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 2421
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1027
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4262,"Parking Charges":25,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4262
+Bill Total Due: 4262
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4262
+0
+New Member Balance : -4262
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1028
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4262,"Parking Charges":25,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4262
+Bill Total Due: 4262
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4262
+0
+New Member Balance : -4262
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1029
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3874,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 8019
+Last Interest Arrears : 0.00
+Current Balance : -8019.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 8019
+Current Month Interest: 140.3325
+Soft Total: 12033.3325
+Bill Total Due: 12033.3325
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 11893
+140.3325
+New Member Balance : -12033.3325
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1030
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4312,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 1.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4312
+Bill Total Due: 4311
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 4311
+0
+New Member Balance : -4311
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1031
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4487,"Parking Charges":250,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4487
+Bill Total Due: 4487
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4487
+0
+New Member Balance : -4487
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1032
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3849,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3849
+Bill Total Due: 3849
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3849
+0
+New Member Balance : -3849
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1033
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4337,"Parking Charges":100,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 204
+Last Interest Arrears : 0.00
+Current Balance : -204.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 204
+Current Month Interest: 3.57
+Soft Total: 4544.57
+Bill Total Due: 4544.57
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4541
+3.57
+New Member Balance : -4544.57
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1034
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4312,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4312
+Bill Total Due: 4312
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4312
+0
+New Member Balance : -4312
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1035
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3799,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3799
+Bill Total Due: 3799
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3799
+0
+New Member Balance : -3799
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1036
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4312,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4312
+Bill Total Due: 4312
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4312
+0
+New Member Balance : -4312
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1037
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4312,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 1054
+Last Interest Arrears : 0.00
+Current Balance : -1054.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 1054
+Current Month Interest: 18.445
+Soft Total: 5384.445
+Bill Total Due: 5384.445
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 5366
+18.445
+New Member Balance : -5384.445
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1038
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3799,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 541
+Last Interest Arrears : 0.00
+Current Balance : -541.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 541
+Current Month Interest: 9.4675
+Soft Total: 4349.4675
+Bill Total Due: 4349.4675
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4340
+9.4675
+New Member Balance : -4349.4675
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1039
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4237,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 4441
+Last Interest Arrears : 0.00
+Current Balance : -4441.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 4441
+Current Month Interest: 77.7175
+Soft Total: 8755.7175
+Bill Total Due: 8755.7175
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 8678
+77.7175
+New Member Balance : -8755.7175
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1040
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4287,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4287
+Bill Total Due: 4287
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4287
+0
+New Member Balance : -4287
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1041
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3799,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3799
+Bill Total Due: 3799
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3799
+0
+New Member Balance : -3799
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1042
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4312,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4312
+Bill Total Due: 4312
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4312
+0
+New Member Balance : -4312
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1043
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4312,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 13705.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4312
+Bill Total Due: -9393
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 9393
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1044
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3824,"Parking Charges":25,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3824
+Bill Total Due: 3824
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3824
+0
+New Member Balance : -3824
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1045
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4237,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4237
+Bill Total Due: 4237
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4237
+0
+New Member Balance : -4237
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1046
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4337,"Parking Charges":100,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4337
+Bill Total Due: 4337
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4337
+0
+New Member Balance : -4337
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1047
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3899,"Parking Charges":100,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 7.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3899
+Bill Total Due: 3892
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 3892
+0
+New Member Balance : -3892
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1048
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4237,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4237
+Bill Total Due: 4237
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4237
+0
+New Member Balance : -4237
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1049
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4337,"Parking Charges":100,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4337
+Bill Total Due: 4337
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4337
+0
+New Member Balance : -4337
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1050
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3924,"Parking Charges":125,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 27986
+Last Interest Arrears : 0.00
+Current Balance : -27986.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 27986
+Current Month Interest: 489.755
+Soft Total: 32399.755
+Bill Total Due: 32399.755
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 31910
+489.755
+New Member Balance : -32399.755
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1051
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4312,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 201.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4312
+Bill Total Due: 4111
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 4111
+0
+New Member Balance : -4111
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1052
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4312,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4312
+Bill Total Due: 4312
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4312
+0
+New Member Balance : -4312
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1053
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3799,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 1.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3799
+Bill Total Due: 3798
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 3798
+0
+New Member Balance : -3798
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1054
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4312,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4312
+Bill Total Due: 4312
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4312
+0
+New Member Balance : -4312
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1055
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4262,"Parking Charges":25,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4262
+Bill Total Due: 4262
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4262
+0
+New Member Balance : -4262
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1056
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":4053,"Parking Charges":75,"NOC Charges":179}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4053
+Bill Total Due: 4053
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4053
+0
+New Member Balance : -4053
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1057
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4362,"Parking Charges":125,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4362
+Bill Total Due: 4362
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4362
+0
+New Member Balance : -4362
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1058
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4237,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4237
+Bill Total Due: 4237
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4237
+0
+New Member Balance : -4237
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1059
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3799,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 270
+Last Interest Arrears : 0.00
+Current Balance : -270.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 270
+Current Month Interest: 4.725
+Soft Total: 4073.725
+Bill Total Due: 4073.725
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4069
+4.725
+New Member Balance : -4073.725
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1060
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4287,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4287
+Bill Total Due: 4287
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4287
+0
+New Member Balance : -4287
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1061
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4287,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4287
+Bill Total Due: 4287
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4287
+0
+New Member Balance : -4287
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1062
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3978,"Parking Charges":0,"NOC Charges":179}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3978
+Bill Total Due: 3978
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3978
+0
+New Member Balance : -3978
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1063
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4287,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4287
+Bill Total Due: 4287
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4287
+0
+New Member Balance : -4287
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1064
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4487,"Parking Charges":250,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 4487
+Last Interest Arrears : 0.00
+Current Balance : -4487.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 4487
+Current Month Interest: 78.5225
+Soft Total: 9052.5225
+Bill Total Due: 9052.5225
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 8974
+78.5225
+New Member Balance : -9052.5225
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1065
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3978,"Parking Charges":0,"NOC Charges":179}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 3978
+Last Interest Arrears : 0.00
+Current Balance : -3978.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 3978
+Current Month Interest: 69.615
+Soft Total: 8025.615
+Bill Total Due: 8025.615
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 7956
+69.615
+New Member Balance : -8025.615
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1066
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4287,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4287
+Bill Total Due: 4287
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4287
+0
+New Member Balance : -4287
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1067
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4237,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4237
+Bill Total Due: 4237
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4237
+0
+New Member Balance : -4237
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1068
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3849,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3849
+Bill Total Due: 3849
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3849
+0
+New Member Balance : -3849
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1069
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4491,"Parking Charges":75,"NOC Charges":179}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 9061
+Last Interest Arrears : 0.00
+Current Balance : -9061.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 9061
+Current Month Interest: 158.5675
+Soft Total: 13710.5675
+Bill Total Due: 13710.5675
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 13552
+158.5675
+New Member Balance : -13710.5675
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1070
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4466,"Parking Charges":50,"NOC Charges":179}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4466
+Bill Total Due: 4466
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4466
+0
+New Member Balance : -4466
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1071
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":4028,"Parking Charges":50,"NOC Charges":179}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4028
+Bill Total Due: 4028
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4028
+0
+New Member Balance : -4028
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1072
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4287,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4287
+Bill Total Due: 4287
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4287
+0
+New Member Balance : -4287
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1073
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4416,"Parking Charges":0,"NOC Charges":179}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 2547
+Last Interest Arrears : 0.00
+Current Balance : -2547.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 2547
+Current Month Interest: 44.5725
+Soft Total: 7007.5725
+Bill Total Due: 7007.5725
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 6963
+44.5725
+New Member Balance : -7007.5725
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1074
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3978,"Parking Charges":0,"NOC Charges":179}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 2491
+Last Interest Arrears : 0.00
+Current Balance : -2491.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 2491
+Current Month Interest: 43.5925
+Soft Total: 6512.5925
+Bill Total Due: 6512.5925
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 6469
+43.5925
+New Member Balance : -6512.5925
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1075
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4262,"Parking Charges":25,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 4262.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4262
+Bill Total Due: -0
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 0
+0
+New Member Balance : 0
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1076
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4287,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 166.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4287
+Bill Total Due: 4121
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 4121
+0
+New Member Balance : -4121
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1077
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":4053,"Parking Charges":75,"NOC Charges":179}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 1803.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4053
+Bill Total Due: 2250
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 2250
+0
+New Member Balance : -2250
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1078
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4337,"Parking Charges":100,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4337
+Bill Total Due: 4337
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4337
+0
+New Member Balance : -4337
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1079
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4362,"Parking Charges":125,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4362
+Bill Total Due: 4362
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4362
+0
+New Member Balance : -4362
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1080
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3824,"Parking Charges":25,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 200.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3824
+Bill Total Due: 3624
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 3624
+0
+New Member Balance : -3624
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1081
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4312,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4312
+Bill Total Due: 4312
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4312
+0
+New Member Balance : -4312
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1082
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4337,"Parking Charges":100,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4337
+Bill Total Due: 4337
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4337
+0
+New Member Balance : -4337
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1083
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3849,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3849
+Bill Total Due: 3849
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3849
+0
+New Member Balance : -3849
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1084
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4237,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4237
+Bill Total Due: 4237
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4237
+0
+New Member Balance : -4237
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1085
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4287,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 5411.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4287
+Bill Total Due: -1124
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 1124
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1086
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3824,"Parking Charges":25,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3824
+Bill Total Due: 3824
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3824
+0
+New Member Balance : -3824
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1087
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4312,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4312
+Bill Total Due: 4312
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4312
+0
+New Member Balance : -4312
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1088
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4312,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4312
+Bill Total Due: 4312
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4312
+0
+New Member Balance : -4312
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1089
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3874,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3874
+Bill Total Due: 3874
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3874
+0
+New Member Balance : -3874
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1090
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4512,"Parking Charges":275,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4512
+Bill Total Due: 4512
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4512
+0
+New Member Balance : -4512
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1091
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4312,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4312
+Bill Total Due: 4312
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4312
+0
+New Member Balance : -4312
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1092
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3849,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3849
+Bill Total Due: 3849
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3849
+0
+New Member Balance : -3849
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1093
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4287,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4287
+Bill Total Due: 4287
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4287
+0
+New Member Balance : -4287
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1094
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4466,"Parking Charges":50,"NOC Charges":179}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4466
+Bill Total Due: 4466
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4466
+0
+New Member Balance : -4466
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1095
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":4028,"Parking Charges":50,"NOC Charges":179}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4028
+Bill Total Due: 4028
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4028
+0
+New Member Balance : -4028
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1096
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4287,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 673.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4287
+Bill Total Due: 3614
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 3614
+0
+New Member Balance : -3614
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1097
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4337,"Parking Charges":100,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4337
+Bill Total Due: 4337
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4337
+0
+New Member Balance : -4337
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1098
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":230,"Building Insurance Charges":22,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":205,"Sinking Fund":67,"Property Tax & N.A Tax":385,"sub_total":3874,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3874
+Bill Total Due: 3874
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3874
+0
+New Member Balance : -3874
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1099
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges":1000,"Water Charges":300,"Building Insurance Charges":34,"DG Maintenance Charges":100,"Maintenance Charges":1790,"Repair & Maintenance":316,"Sinking Fund":103,"Property Tax & N.A Tax":594,"sub_total":4491,"Parking Charges":75,"NOC Charges":179}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 4706.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4491
+Bill Total Due: -215
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 215
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1100
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":46,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":427,"Sinking Fund":139,"Property Tax & N.A Tax":799,"sub_total":4880,"Parking Charges":100,"NOC Charges":179}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 16120.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4880
+Bill Total Due: -11240
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 11240
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1101
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":46,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":427,"Sinking Fund":139,"Property Tax & N.A Tax":799,"sub_total":4651,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4651
+Bill Total Due: 4651
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4651
+0
+New Member Balance : -4651
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1102
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":35,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":324,"Sinking Fund":105,"Property Tax & N.A Tax":605,"sub_total":4334,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 4334
+Last Interest Arrears : 0.00
+Current Balance : -4334.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 4334
+Current Month Interest: 75.845
+Soft Total: 8743.845
+Bill Total Due: 8743.845
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 8668
+75.845
+New Member Balance : -8743.845
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1103
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":230,"Building Insurance Charges ":23,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":209,"Sinking Fund":68,"Property Tax & N.A Tax":391,"sub_total":3990,"Parking Charges":0,"NOC Charges":179}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3990
+Bill Total Due: 3990
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3990
+0
+New Member Balance : -3990
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1104
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":35,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":324,"Sinking Fund":105,"Property Tax & N.A Tax":605,"sub_total":4334,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 4334
+Last Interest Arrears : 0.00
+Current Balance : -4334.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 4334
+Current Month Interest: 75.845
+Soft Total: 8743.845
+Bill Total Due: 8743.845
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 8668
+75.845
+New Member Balance : -8743.845
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1105
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":46,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":427,"Sinking Fund":139,"Property Tax & N.A Tax":799,"sub_total":5101,"Parking Charges":500,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 5101
+Bill Total Due: 5101
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 5101
+0
+New Member Balance : -5101
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1106
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":46,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":427,"Sinking Fund":139,"Property Tax & N.A Tax":799,"sub_total":4676,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4676
+Bill Total Due: 4676
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4676
+0
+New Member Balance : -4676
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1107
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":35,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":324,"Sinking Fund":105,"Property Tax & N.A Tax":605,"sub_total":4334,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4334
+Bill Total Due: 4334
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4334
+0
+New Member Balance : -4334
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1108
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":230,"Building Insurance Charges ":23,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":209,"Sinking Fund":68,"Property Tax & N.A Tax":391,"sub_total":3811,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3811
+Bill Total Due: 3811
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3811
+0
+New Member Balance : -3811
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1109
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":35,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":324,"Sinking Fund":105,"Property Tax & N.A Tax":605,"sub_total":4334,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 166.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4334
+Bill Total Due: 4168
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 4168
+0
+New Member Balance : -4168
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1110
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":46,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":427,"Sinking Fund":139,"Property Tax & N.A Tax":797,"sub_total":4649,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4649
+Bill Total Due: 4649
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4649
+0
+New Member Balance : -4649
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1111
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":46,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":427,"Sinking Fund":139,"Property Tax & N.A Tax":797,"sub_total":4849,"Parking Charges":250,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4849
+Bill Total Due: 4849
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4849
+0
+New Member Balance : -4849
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1112
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":35,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":324,"Sinking Fund":105,"Property Tax & N.A Tax":605,"sub_total":4509,"Parking Charges":250,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 4509
+Last Interest Arrears : 0.00
+Current Balance : -4509.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 4509
+Current Month Interest: 78.9075
+Soft Total: 9096.9075
+Bill Total Due: 9096.9075
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 9018
+78.9075
+New Member Balance : -9096.9075
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1113
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":230,"Building Insurance Charges ":23,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":209,"Sinking Fund":68,"Property Tax & N.A Tax":391,"sub_total":3861,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 3861
+Last Interest Arrears : 0.00
+Current Balance : -3861.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 3861
+Current Month Interest: 67.5675
+Soft Total: 7789.5675
+Bill Total Due: 7789.5675
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 7722
+67.5675
+New Member Balance : -7789.5675
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1114
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":35,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":324,"Sinking Fund":105,"Property Tax & N.A Tax":605,"sub_total":4438,"Parking Charges":0,"NOC Charges":179}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 21281.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4438
+Bill Total Due: -16843
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 16843
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1115
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":46,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":427,"Sinking Fund":139,"Property Tax & N.A Tax":799,"sub_total":4601,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 13603.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4601
+Bill Total Due: -9002
+Is Paid?: 1
+Bill Status: Paid
+New Principal Arrears : 0
+0
+New Member Balance : 9002
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1116
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":46,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":427,"Sinking Fund":139,"Property Tax & N.A Tax":797,"sub_total":4649,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4649
+Bill Total Due: 4649
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4649
+0
+New Member Balance : -4649
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1117
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":35,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":324,"Sinking Fund":105,"Property Tax & N.A Tax":605,"sub_total":4334,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4334
+Bill Total Due: 4334
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4334
+0
+New Member Balance : -4334
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1118
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":230,"Building Insurance Charges ":23,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":209,"Sinking Fund":68,"Property Tax & N.A Tax":391,"sub_total":3836,"Parking Charges":25,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3836
+Bill Total Due: 3836
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3836
+0
+New Member Balance : -3836
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1119
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":35,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":324,"Sinking Fund":105,"Property Tax & N.A Tax":605,"sub_total":4309,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4309
+Bill Total Due: 4309
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4309
+0
+New Member Balance : -4309
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1120
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":35,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":324,"Sinking Fund":105,"Property Tax & N.A Tax":605,"sub_total":4309,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 5776
+Last Interest Arrears : 0.00
+Current Balance : -5776.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 5776
+Current Month Interest: 101.08
+Soft Total: 10186.08
+Bill Total Due: 10186.08
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 10085
+101.08
+New Member Balance : -10186.08
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1121
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":46,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":424,"Sinking Fund":137,"Property Tax & N.A Tax":771,"sub_total":4568,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4568
+Bill Total Due: 4568
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4568
+0
+New Member Balance : -4568
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1122
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":45,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":418,"Sinking Fund":136,"Property Tax & N.A Tax":781,"sub_total":4870,"Parking Charges":300,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 4870.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4870
+Bill Total Due: -0
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 0
+0
+New Member Balance : 0
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1123
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":35,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":324,"Sinking Fund":105,"Property Tax & N.A Tax":605,"sub_total":4309,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4309
+Bill Total Due: 4309
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4309
+0
+New Member Balance : -4309
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1124
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":46,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":427,"Sinking Fund":139,"Property Tax & N.A Tax":799,"sub_total":4851,"Parking Charges":250,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4851
+Bill Total Due: 4851
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4851
+0
+New Member Balance : -4851
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1125
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":46,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":427,"Sinking Fund":139,"Property Tax & N.A Tax":799,"sub_total":4651,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4651
+Bill Total Due: 4651
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4651
+0
+New Member Balance : -4651
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1126
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":35,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":324,"Sinking Fund":105,"Property Tax & N.A Tax":605,"sub_total":4334,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4334
+Bill Total Due: 4334
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4334
+0
+New Member Balance : -4334
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1127
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":230,"Building Insurance Charges ":23,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":209,"Sinking Fund":68,"Property Tax & N.A Tax":391,"sub_total":3811,"Parking Charges":0,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3811
+Bill Total Due: 3811
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3811
+0
+New Member Balance : -3811
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1128
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":35,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":324,"Sinking Fund":105,"Property Tax & N.A Tax":627,"sub_total":4556,"Parking Charges":275,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4556
+Bill Total Due: 4556
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4556
+0
+New Member Balance : -4556
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1129
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":46,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":427,"Sinking Fund":139,"Property Tax & N.A Tax":799,"sub_total":4830,"Parking Charges":50,"NOC Charges":179}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4830
+Bill Total Due: 4830
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4830
+0
+New Member Balance : -4830
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1130
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":46,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":427,"Sinking Fund":139,"Property Tax & N.A Tax":777,"sub_total":4854,"Parking Charges":275,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4854
+Bill Total Due: 4854
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4854
+0
+New Member Balance : -4854
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1131
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":35,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":324,"Sinking Fund":105,"Property Tax & N.A Tax":605,"sub_total":4509,"Parking Charges":250,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4509
+Bill Total Due: 4509
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4509
+0
+New Member Balance : -4509
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1132
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":230,"Building Insurance Charges ":23,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":209,"Sinking Fund":68,"Property Tax & N.A Tax":390,"sub_total":3860,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 18.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3860
+Bill Total Due: 3842
+Is Paid?: -1
+Bill Status: Partially Paid
+New Principal Arrears : 3842
+0
+New Member Balance : -3842
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1133
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":35,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":324,"Sinking Fund":105,"Property Tax & N.A Tax":605,"sub_total":4334,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 3246
+Last Interest Arrears : 0.00
+Current Balance : -3246.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 3246
+Current Month Interest: 56.805
+Soft Total: 7636.805
+Bill Total Due: 7636.805
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 7580
+56.805
+New Member Balance : -7636.805
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1134
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":35,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":324,"Sinking Fund":105,"Property Tax & N.A Tax":605,"sub_total":4334,"Parking Charges":75,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4334
+Bill Total Due: 4334
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4334
+0
+New Member Balance : -4334
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1135
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":46,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":424,"Sinking Fund":137,"Property Tax & N.A Tax":792,"sub_total":4639,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 4644
+Last Interest Arrears : 0.00
+Current Balance : -4644.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 4644
+Current Month Interest: 81.27
+Soft Total: 9364.27
+Bill Total Due: 9364.27
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 9283
+81.27
+New Member Balance : -9364.27
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1136
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":45,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":418,"Sinking Fund":136,"Property Tax & N.A Tax":781,"sub_total":4920,"Parking Charges":350,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4920
+Bill Total Due: 4920
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4920
+0
+New Member Balance : -4920
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1137
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":35,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":324,"Sinking Fund":105,"Property Tax & N.A Tax":605,"sub_total":4309,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4309
+Bill Total Due: 4309
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4309
+0
+New Member Balance : -4309
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1138
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":46,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":427,"Sinking Fund":139,"Property Tax & N.A Tax":799,"sub_total":4851,"Parking Charges":250,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 9990
+Last Interest Arrears : 0.00
+Current Balance : -9990.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 9990
+Current Month Interest: 174.825
+Soft Total: 15015.825
+Bill Total Due: 15015.825
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 14841
+174.825
+New Member Balance : -15015.825
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1139
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":46,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":427,"Sinking Fund":139,"Property Tax & N.A Tax":799,"sub_total":4876,"Parking Charges":275,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 10041
+Last Interest Arrears : 0.00
+Current Balance : -10041.00
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 10041
+Current Month Interest: 175.7175
+Soft Total: 15092.7175
+Bill Total Due: 15092.7175
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 14917
+175.7175
+New Member Balance : -15092.7175
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1140
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":35,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":324,"Sinking Fund":105,"Property Tax & N.A Tax":627,"sub_total":4306,"Parking Charges":25,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4306
+Bill Total Due: 4306
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4306
+0
+New Member Balance : -4306
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1141
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":230,"Building Insurance Charges ":23,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":209,"Sinking Fund":68,"Property Tax & N.A Tax":390,"sub_total":3860,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 3860
+Bill Total Due: 3860
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 3860
+0
+New Member Balance : -3860
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Member ID : 1142
+Setting Basic Variable
+Calculating Values Before Bill Generation
+Bill Head Details : {"Major Repair Charges ":1000,"Water Charges":300,"Building Insurance Charges ":35,"DG Maintenance Charges ":100,"Maintenance Charges":1790,"Repair & Maintenance ":324,"Sinking Fund":105,"Property Tax & N.A Tax":605,"sub_total":4309,"Parking Charges":50,"NOC Charges":0}
+Data for late payment check model
+Last Due Date : 2019-12-06
+Current Bill Date : 2019-04-01
+Late Payment Entry : []
+Last Princpal Arrears : 0.00
+Last Interest Arrears : 0.00
+Current Balance : 
+Last Bill Due : 2019-03-30
+Days Elapsed : 1
+Interestable Amount : 0.00
+Current Month Interest: 0
+Soft Total: 4309
+Bill Total Due: 4309
+Is Paid?: 0
+Bill Status: Unpaid
+New Principal Arrears : 4309
+0
+New Member Balance : -4309
+Inserting data in Database
+----------------------------------------------------------------------------------------------------------------------------------------------
+
